@@ -64,3 +64,185 @@
     ],
     "example": []
 },
+{
+    "word": "breeches",
+    "am_phonetic": "/'brɪtʃɪz/",
+    "en_phonetic": "/'brɪtʃɪz; briːtʃɪz/",
+    "tran": [
+        {
+            "n": "马裤（裤脚束紧长及膝部的裤子）；炮尾（breech的复数）"
+        },
+        {
+            "v": "给…穿上裤子；打…的屁股；以驻退索缚牢（breech的第三人称单数）"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《大西洋帝国 第3季 第4集》",
+            "sen": "Nearly shit your <em>breeches</em> there, didn't you, son?",
+            "sen_tran": "差点拉了裤子是吧 孩子",
+            "pic_url": "./pic/breeches-0.jpg",
+            "pron_url": "./audio/breeches-0.mp3"
+        },
+        {
+            "origin": "来自《超市特工 第5季 第3集》",
+            "sen": "you're acting a little bit big for your <em>breeches</em>.",
+            "sen_tran": "就开始离谱了啊",
+            "pic_url": "./pic/breeches-1.jpg",
+            "pron_url": "./audio/breeches-1.mp3"
+        },
+        {
+            "origin": "来自《冰与火之歌：权力的游戏 第4季 第8集》",
+            "sen": "First time I saw you with your <em>breeches</em> down,I thought you were a eunuch.",
+            "sen_tran": "头一次见你脱裤子的时候,还以为你是个太监呢",
+            "pic_url": "./pic/breeches-2.jpg",
+            "pron_url": "./audio/breeches-2.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：欧洲文明 第6集》",
+            "sen": "What it meant was not wearing fancy kind of aristocratic <em>breeches</em>,and it became identified with a form of political behavior.",
+            "sen_tran": "这里表示不穿着华美的贵族式马裤,之后逐渐成为一种政治行为的代名词",
+            "pic_url": "./pic/breeches-3.jpg",
+            "pron_url": "./audio/breeches-3.mp3"
+        }
+    ]
+},
+{
+    "word": "breed",
+    "am_phonetic": "/brid/",
+    "en_phonetic": "/briːd/",
+    "tran": [
+        {
+            "vi": "繁殖；饲养；产生"
+        },
+        {
+            "vt": "繁殖；饲养；养育，教育；引起"
+        },
+        {
+            "n": "[生物] 品种；种类，类型"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《应许之地》",
+            "sen": "A lot of us <em>breed</em> them up here.",
+            "sen_tran": "还有很多人在喂养它们",
+            "pic_url": "./pic/breed-0.jpg",
+            "pron_url": "./audio/breed-0.mp3"
+        },
+        {
+            "origin": "来自《侏罗纪公园》",
+            "sen": "but a <em>breed</em> of child, Dr. Grant, could be intriguing.",
+            "sen_tran": "但是养小孩应该蛮有意思的",
+            "pic_url": "./pic/breed-1.jpg",
+            "pron_url": "./audio/breed-1.mp3"
+        },
+        {
+            "origin": "来自《重金属编年史 第1季 第3集》",
+            "sen": "it allows people to live and <em>breed</em> for ages,no wonder the world is in a state of social meltdown.",
+            "sen_tran": "大大增强了人类的衍生能力,也难怪这世界快被挤垮了",
+            "pic_url": "./pic/breed-2.jpg",
+            "pron_url": "./audio/breed-2.mp3"
+        },
+        {
+            "origin": "来自《黑衣人3》",
+            "sen": "What <em>breed</em> of fool do you have to be,to penetrate my site on the day of the most massive feat",
+            "sen_tran": "你们敢在人类史上最重要的一天,跑到我的地盘上来捣乱",
+            "pic_url": "./pic/breed-3.jpg",
+            "pron_url": "./audio/breed-3.mp3"
+        },
+        {
+            "origin": "来自《大侦探福尔摩斯》",
+            "sen": "And chambermaids were once such a liberal <em>breed</em>.",
+            "sen_tran": "女仆曾经是很慷慨的育儿器具",
+            "pic_url": "./pic/breed-4.jpg",
+            "pron_url": "./audio/breed-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：政治哲学导论 第4集》",
+            "sen": "until either the true <em>breed</em> of philosophers shall come to,political office or until that of the rulers shall,",
+            "sen_tran": "直到真正的哲学家进入政治,而且统治者在神圣法下",
+            "pic_url": "./pic/breed-5.jpg",
+            "pron_url": "./audio/breed-5.mp3"
+        }
+    ]
+},
+{
+    "word": "breed",
+    "am_phonetic": "/brid/",
+    "en_phonetic": "/briːd/",
+    "tran": [
+        {
+            "vi": "繁殖；饲养；产生"
+        },
+        {
+            "vt": "繁殖；饲养；养育，教育；引起"
+        },
+        {
+            "n": "[生物] 品种；种类，类型"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《应许之地》",
+            "sen": "A lot of us <em>breed</em> them up here.",
+            "sen_tran": "还有很多人在喂养它们",
+            "pic_url": "./pic/breed-0.jpg",
+            "pron_url": "./audio/breed-0.mp3"
+        },
+        {
+            "origin": "来自《侏罗纪公园》",
+            "sen": "but a <em>breed</em> of child, Dr. Grant, could be intriguing.",
+            "sen_tran": "但是养小孩应该蛮有意思的",
+            "pic_url": "./pic/breed-1.jpg",
+            "pron_url": "./audio/breed-1.mp3"
+        },
+        {
+            "origin": "来自《重金属编年史 第1季 第3集》",
+            "sen": "it allows people to live and <em>breed</em> for ages,no wonder the world is in a state of social meltdown.",
+            "sen_tran": "大大增强了人类的衍生能力,也难怪这世界快被挤垮了",
+            "pic_url": "./pic/breed-2.jpg",
+            "pron_url": "./audio/breed-2.mp3"
+        },
+        {
+            "origin": "来自《黑衣人3》",
+            "sen": "What <em>breed</em> of fool do you have to be,to penetrate my site on the day of the most massive feat",
+            "sen_tran": "你们敢在人类史上最重要的一天,跑到我的地盘上来捣乱",
+            "pic_url": "./pic/breed-3.jpg",
+            "pron_url": "./audio/breed-3.mp3"
+        },
+        {
+            "origin": "来自《大侦探福尔摩斯》",
+            "sen": "And chambermaids were once such a liberal <em>breed</em>.",
+            "sen_tran": "女仆曾经是很慷慨的育儿器具",
+            "pic_url": "./pic/breed-4.jpg",
+            "pron_url": "./audio/breed-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：政治哲学导论 第4集》",
+            "sen": "until either the true <em>breed</em> of philosophers shall come to,political office or until that of the rulers shall,",
+            "sen_tran": "直到真正的哲学家进入政治,而且统治者在神圣法下",
+            "pic_url": "./pic/breed-5.jpg",
+            "pron_url": "./audio/breed-5.mp3"
+        }
+    ]
+},
+{
+    "word": "breeder",
+    "am_phonetic": "/'bridɚ/",
+    "en_phonetic": "/'briːdə/",
+    "tran": [
+        {
+            "n": "饲养员；繁殖者；起因；增殖反应堆"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《独立游戏大电影》",
+            "sen": "This website. I think I'm going to go with this <em>breeder</em>.",
+            "sen_tran": "这个网站上 我就想要这种猫",
+            "pic_url": "./pic/breeder-0.jpg",
+            "pron_url": "./audio/breeder-0.mp3"
+        }
+    ]
+},

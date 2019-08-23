@@ -9,3 +9,176 @@
     ],
     "example": []
 },
+{
+    "word": "system",
+    "am_phonetic": "/'sɪstəm/",
+    "en_phonetic": "/'sɪstəm/",
+    "tran": [
+        {
+            "n": "制度，体制；系统；方法"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《灵书妙探 第3季 第6集》",
+            "sen": "- It's part of my <em>system</em>. - Your <em>system</em> is dumb.",
+            "sen_tran": "-那是我的一种摆放方式 -那太蠢了",
+            "pic_url": "./pic/system-0.jpg",
+            "pron_url": "./audio/system-0.mp3"
+        },
+        {
+            "origin": "来自《家有正太 第2季 第3集》",
+            "sen": "This three Bs party is going to cleanse my <em>system</em>.",
+            "sen_tran": "这个3B派对会清洁我的整个系统",
+            "pic_url": "./pic/system-1.jpg",
+            "pron_url": "./audio/system-1.mp3"
+        },
+        {
+            "origin": "来自《新飞跃比弗利 第3季 第16集》",
+            "sen": "I couldn't believe you had no backup <em>system</em>.",
+            "sen_tran": "真不敢相信 你竟然没有备用系统",
+            "pic_url": "./pic/system-2.jpg",
+            "pron_url": "./audio/system-2.mp3"
+        },
+        {
+            "origin": "来自《殊途同归 第1季 第3集》",
+            "sen": "Now. How old do you think our solar <em>system</em> is?",
+            "sen_tran": "大家觉得太阳系形成有多少年了",
+            "pic_url": "./pic/system-3.jpg",
+            "pron_url": "./audio/system-3.mp3"
+        },
+        {
+            "origin": "来自《美国恐怖故事 第2季 第11集》",
+            "sen": "that your son is not swallowed by the <em>system</em>,but I will also do everything in my power",
+            "sen_tran": "你的儿子不被机构收养,我还会尽我所能",
+            "pic_url": "./pic/system-4.jpg",
+            "pron_url": "./audio/system-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：心理学导论 第5集》",
+            "sen": "but the learning pattern varies from <em>system</em> to <em>system</em>,and there's a separateness to them.",
+            "sen_tran": "但学习模式因系统的不同而有所变化,它们之间也是相互独立的",
+            "pic_url": "./pic/system-5.jpg",
+            "pron_url": "./audio/system-5.mp3"
+        }
+    ]
+},
+{
+    "word": "system administrator",
+    "am_phonetic": "//",
+    "en_phonetic": "//",
+    "tran": [
+        {
+            "": "系统管理员"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "systematic",
+    "am_phonetic": "/'sɪstə'mætɪk/",
+    "en_phonetic": "/sɪstə'mætɪk/",
+    "tran": [
+        {
+            "adj": "系统的；体系的；有系统的；[图情] 分类的；一贯的，惯常的"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《犯罪现场调查 第13季 第10集》",
+            "sen": "It is, after all, a <em>systematic</em> pursuit of knowledge, right?",
+            "sen_tran": "它毕竟是对知识的系统追求 对吧",
+            "pic_url": "./pic/systematic-0.jpg",
+            "pron_url": "./audio/systematic-0.mp3"
+        },
+        {
+            "origin": "来自《古迹卫士》",
+            "sen": "So now we know it's not random, it's <em>systematic</em>.",
+            "sen_tran": "我们现在知道这不是偶然 是有计划的",
+            "pic_url": "./pic/systematic-1.jpg",
+            "pron_url": "./audio/systematic-1.mp3"
+        },
+        {
+            "origin": "来自《犯罪现场调查 第13季 第10集》",
+            "sen": "Well, if you ever need a little <em>systematic</em> pursuit of knowledge,you know where to find me.",
+            "sen_tran": "什么时候用得上\"对知识的系统追求\"了,就来找我",
+            "pic_url": "./pic/systematic-2.jpg",
+            "pron_url": "./audio/systematic-2.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：有关食物的心理学、生物学和政治学 第23集》",
+            "sen": "and does something <em>systematic</em> so that parents may get together,in a given school, change things in the schools,",
+            "sen_tran": "做些系统的事情从而使家长们能够集中,能够改变学校里的事情",
+            "pic_url": "./pic/systematic-3.jpg",
+            "pron_url": "./audio/systematic-3.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：环境政治与法律 第2集》",
+            "sen": "But these laws evolved not in a <em>systematic</em> way.",
+            "sen_tran": "但是这些法律的形成并不系统",
+            "pic_url": "./pic/systematic-4.jpg",
+            "pron_url": "./audio/systematic-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：生物医学工程探索 第14集》",
+            "sen": "and it goes through a very <em>systematic</em> cycle.",
+            "sen_tran": "这一周期是一个有条不紊的循环过程",
+            "pic_url": "./pic/systematic-5.jpg",
+            "pron_url": "./audio/systematic-5.mp3"
+        }
+    ]
+},
+{
+    "word": "systematically",
+    "am_phonetic": "/,sɪstə'mætɪkl/",
+    "en_phonetic": "/,sɪstə'mætɪklɪ/",
+    "tran": [
+        {
+            "adv": "有系统地；有组织地"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《侏罗纪公园》",
+            "sen": "They were testing the fences for weaknesses <em>systematically</em>.",
+            "sen_tran": "它们系统地侦测护篱薄弱处",
+            "pic_url": "./pic/systematically-0.jpg",
+            "pron_url": "./audio/systematically-0.mp3"
+        },
+        {
+            "origin": "来自《大西洋帝国 第4季 第10集》",
+            "sen": "he and his ilk are <em>systematically</em> driving down,the price of Anaconda Realty stock,",
+            "sen_tran": "他和他的家族正在有组织地,拉低水蟒房地产信托的股价",
+            "pic_url": "./pic/systematically-1.jpg",
+            "pron_url": "./audio/systematically-1.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：金融市场 第21集》",
+            "sen": "in fact, it would generally be <em>systematically</em> different.",
+            "sen_tran": "实际上 两个汇率一般会有区别",
+            "pic_url": "./pic/systematically-2.jpg",
+            "pron_url": "./audio/systematically-2.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：现代社会理论基础 第25集》",
+            "sen": "in which certain acts are <em>systematically</em> punished by that society,I can say in this society,",
+            "sen_tran": "对某个行为有系统的惩罚措施,我可以说 在这个社会中",
+            "pic_url": "./pic/systematically-3.jpg",
+            "pron_url": "./audio/systematically-3.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：基础物理 第3集》",
+            "sen": "Let's get that <em>systematically</em> by using free-body diagrams.",
+            "sen_tran": "让我们系统地用隔离法来分析一下",
+            "pic_url": "./pic/systematically-4.jpg",
+            "pron_url": "./audio/systematically-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：心理学导论 第5集》",
+            "sen": "he <em>systematically</em> underestimated what children and babies know.",
+            "sen_tran": "而系统地低估了婴幼儿的理解能力",
+            "pic_url": "./pic/systematically-5.jpg",
+            "pron_url": "./audio/systematically-5.mp3"
+        }
+    ]
+},

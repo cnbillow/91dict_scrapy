@@ -1,0 +1,277 @@
+{
+    "word": "evil",
+    "am_phonetic": "/'ivl/",
+    "en_phonetic": "/'iːv(ə)l; -vɪl/",
+    "tran": [
+        {
+            "adj": "邪恶的；不幸的；有害的；讨厌的"
+        },
+        {
+            "n": "罪恶，邪恶；不幸"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《犯罪心理 第8季 第9集》",
+            "sen": "Isn't the phrase supposed to be \"See no <em>evil</em>, hear no <em>evil</em>\"?",
+            "sen_tran": "不应该是\"目不见恶 耳不闻恶\"吗",
+            "pic_url": "./pic/evil-0.jpg",
+            "pron_url": "./audio/evil-0.mp3"
+        },
+        {
+            "origin": "来自《废柴联盟 第3季 第4集》",
+            "sen": "We're the <em>evil</em> study group, and we have but one <em>evil</em> goal.",
+            "sen_tran": "我们是邪恶学习小组 有一个邪恶的目的",
+            "pic_url": "./pic/evil-1.jpg",
+            "pron_url": "./audio/evil-1.mp3"
+        },
+        {
+            "origin": "来自《唐顿庄园 第3季 第8集》",
+            "sen": "- Am I not to stand up against <em>evil</em>? - <em>Evil</em>?",
+            "sen_tran": "-难道我不能反抗邪恶吗 -邪恶",
+            "pic_url": "./pic/evil-2.jpg",
+            "pron_url": "./audio/evil-2.mp3"
+        },
+        {
+            "origin": "来自《谎言之躯》",
+            "sen": "those to whom <em>evil</em> is done do <em>evil</em> in return. W.H.Auden,Manchester England",
+            "sen_tran": "恶有恶报之道 摘自奥登作品,英格兰 曼彻斯特城",
+            "pic_url": "./pic/evil-3.jpg",
+            "pron_url": "./audio/evil-3.mp3"
+        },
+        {
+            "origin": "来自《警戒结束》",
+            "sen": "So Mr. Big <em>Evil</em>... why do they call you Big <em>Evil</em>?",
+            "sen_tran": "那大恶人先生 他们为什么叫你大恶人",
+            "pic_url": "./pic/evil-4.jpg",
+            "pron_url": "./audio/evil-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：博弈论 第1集》",
+            "sen": "We've seen a case where an <em>evil</em> git was playing an <em>evil</em> git;",
+            "sen_tran": "一种是饭桶恶魔于与饭桶恶魔的博弈",
+            "pic_url": "./pic/evil-5.jpg",
+            "pron_url": "./audio/evil-5.mp3"
+        }
+    ]
+},
+{
+    "word": "evil",
+    "am_phonetic": "/'ivl/",
+    "en_phonetic": "/'iːv(ə)l; -vɪl/",
+    "tran": [
+        {
+            "adj": "邪恶的；不幸的；有害的；讨厌的"
+        },
+        {
+            "n": "罪恶，邪恶；不幸"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《犯罪心理 第8季 第9集》",
+            "sen": "Isn't the phrase supposed to be \"See no <em>evil</em>, hear no <em>evil</em>\"?",
+            "sen_tran": "不应该是\"目不见恶 耳不闻恶\"吗",
+            "pic_url": "./pic/evil-0.jpg",
+            "pron_url": "./audio/evil-0.mp3"
+        },
+        {
+            "origin": "来自《废柴联盟 第3季 第4集》",
+            "sen": "We're the <em>evil</em> study group, and we have but one <em>evil</em> goal.",
+            "sen_tran": "我们是邪恶学习小组 有一个邪恶的目的",
+            "pic_url": "./pic/evil-1.jpg",
+            "pron_url": "./audio/evil-1.mp3"
+        },
+        {
+            "origin": "来自《唐顿庄园 第3季 第8集》",
+            "sen": "- Am I not to stand up against <em>evil</em>? - <em>Evil</em>?",
+            "sen_tran": "-难道我不能反抗邪恶吗 -邪恶",
+            "pic_url": "./pic/evil-2.jpg",
+            "pron_url": "./audio/evil-2.mp3"
+        },
+        {
+            "origin": "来自《谎言之躯》",
+            "sen": "those to whom <em>evil</em> is done do <em>evil</em> in return. W.H.Auden,Manchester England",
+            "sen_tran": "恶有恶报之道 摘自奥登作品,英格兰 曼彻斯特城",
+            "pic_url": "./pic/evil-3.jpg",
+            "pron_url": "./audio/evil-3.mp3"
+        },
+        {
+            "origin": "来自《警戒结束》",
+            "sen": "So Mr. Big <em>Evil</em>... why do they call you Big <em>Evil</em>?",
+            "sen_tran": "那大恶人先生 他们为什么叫你大恶人",
+            "pic_url": "./pic/evil-4.jpg",
+            "pron_url": "./audio/evil-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：博弈论 第1集》",
+            "sen": "We've seen a case where an <em>evil</em> git was playing an <em>evil</em> git;",
+            "sen_tran": "一种是饭桶恶魔于与饭桶恶魔的博弈",
+            "pic_url": "./pic/evil-5.jpg",
+            "pron_url": "./audio/evil-5.mp3"
+        }
+    ]
+},
+{
+    "word": "evilly",
+    "am_phonetic": "//",
+    "en_phonetic": "/'ivəli/",
+    "tran": [
+        {
+            "adv": "邪恶地"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "evilly",
+    "am_phonetic": "//",
+    "en_phonetic": "/'ivəli/",
+    "tran": [
+        {
+            "adv": "邪恶地"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "evil-minded",
+    "am_phonetic": "//",
+    "en_phonetic": "/'i:vəl'maindid/",
+    "tran": [
+        {
+            "adj": "恶毒的；心地邪恶的"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "evince",
+    "am_phonetic": "/ɪ'vɪns/",
+    "en_phonetic": "/ɪ'vɪns/",
+    "tran": [
+        {
+            "vt": "表明，表示；引起"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "eviscerate",
+    "am_phonetic": "/ɪ'vɪsəret/",
+    "en_phonetic": "/ɪ'vɪsəreɪt/",
+    "tran": [
+        {
+            "vt": "取出内脏；除去精华"
+        },
+        {
+            "vi": "内脏凸出"
+        },
+        {
+            "adj": "内脏被取出的"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《迷失 第1季 第4集》",
+            "sen": "who'd love nothing more than to <em>eviscerate</em> anything near.",
+            "sen_tran": "就喜欢吃周围动物的内脏",
+            "pic_url": "./pic/eviscerate-0.jpg",
+            "pron_url": "./audio/eviscerate-0.mp3"
+        },
+        {
+            "origin": "来自《绝望的主妇 第1季 第10集》",
+            "sen": "and together we are going to <em>eviscerate</em> you.",
+            "sen_tran": "然后掏空你的一切",
+            "pic_url": "./pic/eviscerate-1.jpg",
+            "pron_url": "./audio/eviscerate-1.mp3"
+        }
+    ]
+},
+{
+    "word": "evocative",
+    "am_phonetic": "/ɪ'vɑkətɪv/",
+    "en_phonetic": "/ɪ'vɒkətɪv/",
+    "tran": [
+        {
+            "adj": "唤起的；唤出的"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《耶鲁大学开放课程：1945年后的美国小说 第23集》",
+            "sen": "So, it has a very <em>evocative</em> narrative power,that doesn't depend on people's being able to read it,",
+            "sen_tran": "这是叙事的一种无与伦比的力量,并不取决于人类是否能读懂",
+            "pic_url": "./pic/evocative-0.jpg",
+            "pron_url": "./audio/evocative-0.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：心理学导论 第20集》",
+            "sen": "the keys to happiness in a nicely <em>evocative</em> passage:,\"We are happier when we are healthy, well-fed,",
+            "sen_tran": "总结道幸福的关键 而且引起了很大共鸣,\"当我们健康 吃得好",
+            "pic_url": "./pic/evocative-1.jpg",
+            "pron_url": "./audio/evocative-1.mp3"
+        },
+        {
+            "origin": "来自《哈佛大学公共课-公正：该如何做是好》",
+            "sen": "These examples, they maybe intuitively <em>evocative</em>, Rina said.",
+            "sen_tran": "这些例子可能直观地引起共鸣 丽娜说",
+            "pic_url": "./pic/evocative-2.jpg",
+            "pron_url": "./audio/evocative-2.mp3"
+        }
+    ]
+},
+{
+    "word": "evoke",
+    "am_phonetic": "/ɪ'vok/",
+    "en_phonetic": "/ɪ'vəʊk/",
+    "tran": [
+        {
+            "vt": "引起，唤起；博得"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《变形金刚3：月黑之时》",
+            "sen": "Built to <em>evoke</em> the body of the ideal woman.",
+            "sen_tran": "让人想起女人的完美曲线",
+            "pic_url": "./pic/evoke-0.jpg",
+            "pron_url": "./audio/evoke-0.mp3"
+        },
+        {
+            "origin": "来自《灵书妙探 第4季 第17集》",
+            "sen": "to <em>evoke</em> images of little red riding hood.",
+            "sen_tran": "好让人们想到小红帽",
+            "pic_url": "./pic/evoke-1.jpg",
+            "pron_url": "./audio/evoke-1.mp3"
+        },
+        {
+            "origin": "来自《犯罪心理 第9季 第5集》",
+            "sen": "may have <em>evoke</em> a need to commemorate the event.",
+            "sen_tran": "可能让他觉得有必要纪念此事",
+            "pic_url": "./pic/evoke-2.jpg",
+            "pron_url": "./audio/evoke-2.mp3"
+        },
+        {
+            "origin": "来自《完美感觉》",
+            "sen": "The scent of cut hay could <em>evoke</em> a childhood fear of cows.",
+            "sen_tran": "切干草的气味会唤起童年对奶牛的惧怕",
+            "pic_url": "./pic/evoke-3.jpg",
+            "pron_url": "./audio/evoke-3.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：有关食物的心理学、生物学和政治学 第3集》",
+            "sen": "and those <em>evoke</em> a lot of interesting sensations in people,a lot of interesting reactions in people",
+            "sen_tran": "这唤起了人们许多有趣的反应,这些反应很有意思",
+            "pic_url": "./pic/evoke-4.jpg",
+            "pron_url": "./audio/evoke-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：欧洲文明 第8集》",
+            "sen": "again which one hesitates to <em>evoke</em>, is of course prostitution.",
+            "sen_tran": "也是较难以启齿的 就是卖淫",
+            "pic_url": "./pic/evoke-5.jpg",
+            "pron_url": "./audio/evoke-5.mp3"
+        }
+    ]
+},

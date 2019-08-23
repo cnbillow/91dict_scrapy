@@ -1,0 +1,2832 @@
+{
+    "word": "sir",
+    "am_phonetic": "/sɝ/",
+    "en_phonetic": "/sɜː/",
+    "tran": [
+        {
+            "n": "先生；（用于姓名前）爵士；阁下；（中小学生对男教师的称呼）先生；老师"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《一位年轻医生的笔记 第1季 第2集》",
+            "sen": "It was me, <em>sir</em> and no one else, <em>sir</em>.",
+            "sen_tran": "我一个人喝掉了 医生",
+            "pic_url": "./pic/sir-0.jpg",
+            "pron_url": "./audio/sir-0.mp3"
+        },
+        {
+            "origin": "来自《拆弹部队》",
+            "sen": "No, <em>sir</em>, <em>sir</em>, that's sergeant James. He's right here.",
+            "sen_tran": "不 长官 是詹姆斯中士 他就在那里",
+            "pic_url": "./pic/sir-1.jpg",
+            "pron_url": "./audio/sir-1.mp3"
+        },
+        {
+            "origin": "来自《雷斯特雷波》",
+            "sen": "<em>Sir</em>. How you doing, <em>sir</em>? Good to see you again.",
+            "sen_tran": "长官 还好吗 很高兴再见到您",
+            "pic_url": "./pic/sir-2.jpg",
+            "pron_url": "./audio/sir-2.mp3"
+        },
+        {
+            "origin": "来自《太空堡垒卡拉狄加 第4季 第12集》",
+            "sen": "Yes, <em>sir</em>. I'm sorry, <em>sir</em>, but what can I do?",
+            "sen_tran": "是 长官 我很抱歉 可我能怎么办？",
+            "pic_url": "./pic/sir-3.jpg",
+            "pron_url": "./audio/sir-3.mp3"
+        },
+        {
+            "origin": "来自《太空堡垒卡拉狄加 第2季 第12集》",
+            "sen": "Don't worry, <em>sir</em>. I'll take it real slow, <em>sir</em>.",
+            "sen_tran": "别担心 长官 我们会慢慢来的 长官!",
+            "pic_url": "./pic/sir-4.jpg",
+            "pron_url": "./audio/sir-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：欧洲文明》",
+            "sen": "And he replied, <em>Sir</em>, I pedal so quickly,they'll never catch me.",
+            "sen_tran": "他回答道 先生 我踩踏板很快,他们永远也追不上我",
+            "pic_url": "./pic/sir-5.jpg",
+            "pron_url": "./audio/sir-5.mp3"
+        }
+    ]
+},
+{
+    "word": "A",
+    "am_phonetic": "/ə; e/",
+    "en_phonetic": "/ə; eɪ/",
+    "tran": [
+        {
+            "n": "字母A；第一流的；学业成绩达最高标准的评价符号"
+        },
+        {
+            "abbr": "[物]安（ampere）"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《殊途同归 第1季 第1集》",
+            "sen": "It's <em>a</em> four-star hotel. It'll be <em>a</em> fiver <em>a</em> pint!",
+            "sen_tran": "这是家四星级酒店 一杯酒就要五块钱",
+            "pic_url": "./pic/A-0.jpg",
+            "pron_url": "./audio/A-0.mp3"
+        },
+        {
+            "origin": "来自《打工姐妹花 第1季 第6集》",
+            "sen": "you see <em>a</em> loser drawing <em>a</em> rat on <em>a</em> napkin.",
+            "sen_tran": "你会看见一个窝囊废在餐巾上画老鼠",
+            "pic_url": "./pic/A-1.jpg",
+            "pron_url": "./audio/A-1.mp3"
+        },
+        {
+            "origin": "来自《打工姐妹花 第3季 第7集》",
+            "sen": "after <em>a</em> kid in <em>a</em> toy store made <em>a</em> wish.",
+            "sen_tran": "是因为玩具店里某个小孩许了个愿",
+            "pic_url": "./pic/A-2.jpg",
+            "pron_url": "./audio/A-2.mp3"
+        },
+        {
+            "origin": "来自《布克和海尔》",
+            "sen": "<em>A</em> man has <em>a</em> right to scratch out <em>a</em> living.",
+            "sen_tran": "人有权迫于生计干这样的事",
+            "pic_url": "./pic/A-3.jpg",
+            "pron_url": "./audio/A-3.mp3"
+        },
+        {
+            "origin": "来自《魔境仙踪》",
+            "sen": "Like, in <em>a</em> palace with <em>a</em> crown and <em>a</em> scepter?",
+            "sen_tran": "就像是住在皇宫头戴王冠手拿权杖那种吗",
+            "pic_url": "./pic/A-4.jpg",
+            "pron_url": "./audio/A-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：生物医学工程探索 第11集》",
+            "sen": "<em>a</em> bag of <em>a</em> solution hanging up on <em>a</em> pole,and a tube going into a patient's arm.",
+            "sen_tran": "满是溶液的袋子挂在支架上,一根管子伸到病人的手臂里",
+            "pic_url": "./pic/A-5.jpg",
+            "pron_url": "./audio/A-5.mp3"
+        }
+    ]
+},
+{
+    "word": "a",
+    "am_phonetic": "/ə; e/",
+    "en_phonetic": "/ə; eɪ/",
+    "tran": [
+        {
+            "n": "字母A；第一流的；学业成绩达最高标准的评价符号"
+        },
+        {
+            "abbr": "[物]安（ampere）"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《熟女镇 第1季 第10集》",
+            "sen": "The old boat- in- <em>a-</em> parking lot coffee commercial. classy.",
+            "sen_tran": "在停车场的破旧游艇咖啡广告 够经典",
+            "pic_url": "./pic/a-0.jpg",
+            "pron_url": "./audio/a-0.mp3"
+        },
+        {
+            "origin": "来自《贫民窟的百万富翁》",
+            "sen": "Okay, the final question on who wants to be <em>a-</em>,What a show, ladies and gentlemen.",
+            "sen_tran": "好吧 最后一题 谁想,多精彩的节目 女士们先生们",
+            "pic_url": "./pic/a-1.jpg",
+            "pron_url": "./audio/a-1.mp3"
+        },
+        {
+            "origin": "来自《熟女镇 第1季 第18集》",
+            "sen": "I mean, you can still dream about being <em>a-</em> painter,or a pastry chef or an antiques store owner",
+            "sen_tran": "我是说 你还可以梦想成为一个画家,或者糕点师 或者成为一个古董商",
+            "pic_url": "./pic/a-2.jpg",
+            "pron_url": "./audio/a-2.mp3"
+        },
+        {
+            "origin": "来自《无敌破坏王》",
+            "sen": "Fastest pedal- power west of the Whac- <em>A-</em> Mole.",
+            "sen_tran": "快打地鼠以西最快的脚踏动力",
+            "pic_url": "./pic/a-3.jpg",
+            "pron_url": "./audio/a-3.mp3"
+        },
+        {
+            "origin": "来自《灵书妙探 第1季 第8集》",
+            "sen": "<em>A-</em> A med student nursed me back to health.",
+            "sen_tran": "有位医学院的学生照顾我 直到我完全康复",
+            "pic_url": "./pic/a-4.jpg",
+            "pron_url": "./audio/a-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：博弈论 第1集》",
+            "sen": "a sixth are going to end up with <em>A-</em>,a sixth are going to end up with B+,",
+            "sen_tran": "六分之一的人会得到A-,六分之一的人会得到B+",
+            "pic_url": "./pic/a-5.jpg",
+            "pron_url": "./audio/a-5.mp3"
+        }
+    ]
+},
+{
+    "word": "a",
+    "am_phonetic": "/ə; e/",
+    "en_phonetic": "/ə; eɪ/",
+    "tran": [
+        {
+            "n": "字母A；第一流的；学业成绩达最高标准的评价符号"
+        },
+        {
+            "abbr": "[物]安（ampere）"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《熟女镇 第1季 第10集》",
+            "sen": "The old boat- in- <em>a-</em> parking lot coffee commercial. classy.",
+            "sen_tran": "在停车场的破旧游艇咖啡广告 够经典",
+            "pic_url": "./pic/a-0.jpg",
+            "pron_url": "./audio/a-0.mp3"
+        },
+        {
+            "origin": "来自《贫民窟的百万富翁》",
+            "sen": "Okay, the final question on who wants to be <em>a-</em>,What a show, ladies and gentlemen.",
+            "sen_tran": "好吧 最后一题 谁想,多精彩的节目 女士们先生们",
+            "pic_url": "./pic/a-1.jpg",
+            "pron_url": "./audio/a-1.mp3"
+        },
+        {
+            "origin": "来自《熟女镇 第1季 第18集》",
+            "sen": "I mean, you can still dream about being <em>a-</em> painter,or a pastry chef or an antiques store owner",
+            "sen_tran": "我是说 你还可以梦想成为一个画家,或者糕点师 或者成为一个古董商",
+            "pic_url": "./pic/a-2.jpg",
+            "pron_url": "./audio/a-2.mp3"
+        },
+        {
+            "origin": "来自《无敌破坏王》",
+            "sen": "Fastest pedal- power west of the Whac- <em>A-</em> Mole.",
+            "sen_tran": "快打地鼠以西最快的脚踏动力",
+            "pic_url": "./pic/a-3.jpg",
+            "pron_url": "./audio/a-3.mp3"
+        },
+        {
+            "origin": "来自《灵书妙探 第1季 第8集》",
+            "sen": "<em>A-</em> A med student nursed me back to health.",
+            "sen_tran": "有位医学院的学生照顾我 直到我完全康复",
+            "pic_url": "./pic/a-4.jpg",
+            "pron_url": "./audio/a-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：博弈论 第1集》",
+            "sen": "a sixth are going to end up with <em>A-</em>,a sixth are going to end up with B+,",
+            "sen_tran": "六分之一的人会得到A-,六分之一的人会得到B+",
+            "pic_url": "./pic/a-5.jpg",
+            "pron_url": "./audio/a-5.mp3"
+        }
+    ]
+},
+{
+    "word": "breathy",
+    "am_phonetic": "/'brɛθi/",
+    "en_phonetic": "/'breθɪ/",
+    "tran": [
+        {
+            "adj": "带呼吸声的；缺少声量的"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《打工姐妹花 第2季 第19集》",
+            "sen": "Sometimes chives can be a little <em>breathy</em>, am I right?",
+            "sen_tran": "香葱味的话 嘴巴会容易有味道",
+            "pic_url": "./pic/breathy-0.jpg",
+            "pron_url": "./audio/breathy-0.mp3"
+        }
+    ]
+},
+{
+    "word": "breech",
+    "am_phonetic": "/britʃ/",
+    "en_phonetic": "/briːtʃ/",
+    "tran": [
+        {
+            "n": "臀部；后膛"
+        },
+        {
+            "vt": "给…穿上裤子；给…装上炮尾"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《菲洛梅娜》",
+            "sen": "The baby is the wrong way round. It's <em>breech</em>!",
+            "sen_tran": "孩子的位置不对 这是臀位分娩",
+            "pic_url": "./pic/breech-0.jpg",
+            "pron_url": "./audio/breech-0.mp3"
+        },
+        {
+            "origin": "来自《犯罪心理 第10季 第14集》",
+            "sen": "IPD, don't let that van <em>breech</em> the perimeter.",
+            "sen_tran": "印警署 别让货车进入保护区",
+            "pic_url": "./pic/breech-1.jpg",
+            "pron_url": "./audio/breech-1.mp3"
+        },
+        {
+            "origin": "来自《笨人晚宴》",
+            "sen": "The foal was in <em>breech</em>. At about the 22nd hour,I just said, \"Stuff it.\"",
+            "sen_tran": "马驹臀位难产 二十二个小时之后,我说 去他妈的",
+            "pic_url": "./pic/breech-2.jpg",
+            "pron_url": "./audio/breech-2.mp3"
+        }
+    ]
+},
+{
+    "word": "breech birth",
+    "am_phonetic": "//",
+    "en_phonetic": "//",
+    "tran": [
+        {
+            "": "臀位分娩"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "breeches",
+    "am_phonetic": "/'brɪtʃɪz/",
+    "en_phonetic": "/'brɪtʃɪz; briːtʃɪz/",
+    "tran": [
+        {
+            "n": "马裤（裤脚束紧长及膝部的裤子）；炮尾（breech的复数）"
+        },
+        {
+            "v": "给…穿上裤子；打…的屁股；以驻退索缚牢（breech的第三人称单数）"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《大西洋帝国 第3季 第4集》",
+            "sen": "Nearly shit your <em>breeches</em> there, didn't you, son?",
+            "sen_tran": "差点拉了裤子是吧 孩子",
+            "pic_url": "./pic/breeches-0.jpg",
+            "pron_url": "./audio/breeches-0.mp3"
+        },
+        {
+            "origin": "来自《超市特工 第5季 第3集》",
+            "sen": "you're acting a little bit big for your <em>breeches</em>.",
+            "sen_tran": "就开始离谱了啊",
+            "pic_url": "./pic/breeches-1.jpg",
+            "pron_url": "./audio/breeches-1.mp3"
+        },
+        {
+            "origin": "来自《冰与火之歌：权力的游戏 第4季 第8集》",
+            "sen": "First time I saw you with your <em>breeches</em> down,I thought you were a eunuch.",
+            "sen_tran": "头一次见你脱裤子的时候,还以为你是个太监呢",
+            "pic_url": "./pic/breeches-2.jpg",
+            "pron_url": "./audio/breeches-2.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：欧洲文明 第6集》",
+            "sen": "What it meant was not wearing fancy kind of aristocratic <em>breeches</em>,and it became identified with a form of political behavior.",
+            "sen_tran": "这里表示不穿着华美的贵族式马裤,之后逐渐成为一种政治行为的代名词",
+            "pic_url": "./pic/breeches-3.jpg",
+            "pron_url": "./audio/breeches-3.mp3"
+        }
+    ]
+},
+{
+    "word": "breed",
+    "am_phonetic": "/brid/",
+    "en_phonetic": "/briːd/",
+    "tran": [
+        {
+            "vi": "繁殖；饲养；产生"
+        },
+        {
+            "vt": "繁殖；饲养；养育，教育；引起"
+        },
+        {
+            "n": "[生物] 品种；种类，类型"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《应许之地》",
+            "sen": "A lot of us <em>breed</em> them up here.",
+            "sen_tran": "还有很多人在喂养它们",
+            "pic_url": "./pic/breed-0.jpg",
+            "pron_url": "./audio/breed-0.mp3"
+        },
+        {
+            "origin": "来自《侏罗纪公园》",
+            "sen": "but a <em>breed</em> of child, Dr. Grant, could be intriguing.",
+            "sen_tran": "但是养小孩应该蛮有意思的",
+            "pic_url": "./pic/breed-1.jpg",
+            "pron_url": "./audio/breed-1.mp3"
+        },
+        {
+            "origin": "来自《重金属编年史 第1季 第3集》",
+            "sen": "it allows people to live and <em>breed</em> for ages,no wonder the world is in a state of social meltdown.",
+            "sen_tran": "大大增强了人类的衍生能力,也难怪这世界快被挤垮了",
+            "pic_url": "./pic/breed-2.jpg",
+            "pron_url": "./audio/breed-2.mp3"
+        },
+        {
+            "origin": "来自《黑衣人3》",
+            "sen": "What <em>breed</em> of fool do you have to be,to penetrate my site on the day of the most massive feat",
+            "sen_tran": "你们敢在人类史上最重要的一天,跑到我的地盘上来捣乱",
+            "pic_url": "./pic/breed-3.jpg",
+            "pron_url": "./audio/breed-3.mp3"
+        },
+        {
+            "origin": "来自《大侦探福尔摩斯》",
+            "sen": "And chambermaids were once such a liberal <em>breed</em>.",
+            "sen_tran": "女仆曾经是很慷慨的育儿器具",
+            "pic_url": "./pic/breed-4.jpg",
+            "pron_url": "./audio/breed-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：政治哲学导论 第4集》",
+            "sen": "until either the true <em>breed</em> of philosophers shall come to,political office or until that of the rulers shall,",
+            "sen_tran": "直到真正的哲学家进入政治,而且统治者在神圣法下",
+            "pic_url": "./pic/breed-5.jpg",
+            "pron_url": "./audio/breed-5.mp3"
+        }
+    ]
+},
+{
+    "word": "breed",
+    "am_phonetic": "/brid/",
+    "en_phonetic": "/briːd/",
+    "tran": [
+        {
+            "vi": "繁殖；饲养；产生"
+        },
+        {
+            "vt": "繁殖；饲养；养育，教育；引起"
+        },
+        {
+            "n": "[生物] 品种；种类，类型"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《应许之地》",
+            "sen": "A lot of us <em>breed</em> them up here.",
+            "sen_tran": "还有很多人在喂养它们",
+            "pic_url": "./pic/breed-0.jpg",
+            "pron_url": "./audio/breed-0.mp3"
+        },
+        {
+            "origin": "来自《侏罗纪公园》",
+            "sen": "but a <em>breed</em> of child, Dr. Grant, could be intriguing.",
+            "sen_tran": "但是养小孩应该蛮有意思的",
+            "pic_url": "./pic/breed-1.jpg",
+            "pron_url": "./audio/breed-1.mp3"
+        },
+        {
+            "origin": "来自《重金属编年史 第1季 第3集》",
+            "sen": "it allows people to live and <em>breed</em> for ages,no wonder the world is in a state of social meltdown.",
+            "sen_tran": "大大增强了人类的衍生能力,也难怪这世界快被挤垮了",
+            "pic_url": "./pic/breed-2.jpg",
+            "pron_url": "./audio/breed-2.mp3"
+        },
+        {
+            "origin": "来自《黑衣人3》",
+            "sen": "What <em>breed</em> of fool do you have to be,to penetrate my site on the day of the most massive feat",
+            "sen_tran": "你们敢在人类史上最重要的一天,跑到我的地盘上来捣乱",
+            "pic_url": "./pic/breed-3.jpg",
+            "pron_url": "./audio/breed-3.mp3"
+        },
+        {
+            "origin": "来自《大侦探福尔摩斯》",
+            "sen": "And chambermaids were once such a liberal <em>breed</em>.",
+            "sen_tran": "女仆曾经是很慷慨的育儿器具",
+            "pic_url": "./pic/breed-4.jpg",
+            "pron_url": "./audio/breed-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：政治哲学导论 第4集》",
+            "sen": "until either the true <em>breed</em> of philosophers shall come to,political office or until that of the rulers shall,",
+            "sen_tran": "直到真正的哲学家进入政治,而且统治者在神圣法下",
+            "pic_url": "./pic/breed-5.jpg",
+            "pron_url": "./audio/breed-5.mp3"
+        }
+    ]
+},
+{
+    "word": "breeder",
+    "am_phonetic": "/'bridɚ/",
+    "en_phonetic": "/'briːdə/",
+    "tran": [
+        {
+            "n": "饲养员；繁殖者；起因；增殖反应堆"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《独立游戏大电影》",
+            "sen": "This website. I think I'm going to go with this <em>breeder</em>.",
+            "sen_tran": "这个网站上 我就想要这种猫",
+            "pic_url": "./pic/breeder-0.jpg",
+            "pron_url": "./audio/breeder-0.mp3"
+        }
+    ]
+},
+{
+    "word": "crisp",
+    "am_phonetic": "/krɪsp/",
+    "en_phonetic": "/krɪsp/",
+    "tran": [
+        {
+            "adj": "脆的；新鲜的；易碎的"
+        },
+        {
+            "vt": "使卷曲；使发脆"
+        },
+        {
+            "vi": "卷曲；发脆"
+        },
+        {
+            "n": "松脆物；油炸马铃薯片"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《超级英雄》",
+            "sen": "I've been bathing their apple <em>crisp</em> and Tater Tots,in the Beam of Sloth.",
+            "sen_tran": "我把他们的苹果酥和小土豆,都用\"懒散射线\"烤过了",
+            "pic_url": "./pic/crisp-0.jpg",
+            "pron_url": "./audio/crisp-0.mp3"
+        },
+        {
+            "origin": "来自《侠胆雄狮 第1季》",
+            "sen": "This place will be burnt to a <em>crisp</em>,before anyone even arrives.",
+            "sen_tran": "在他们到来之前,这个地方就会燃为灰烬",
+            "pic_url": "./pic/crisp-1.jpg",
+            "pron_url": "./audio/crisp-1.mp3"
+        },
+        {
+            "origin": "来自《冬天的骨头》",
+            "sen": "You're saying dad's up there burnt to a <em>crisp</em>?",
+            "sen_tran": "你是说我爸在里头烧的一干二净了吗",
+            "pic_url": "./pic/crisp-2.jpg",
+            "pron_url": "./audio/crisp-2.mp3"
+        },
+        {
+            "origin": "来自《太空堡垒卡拉狄加 第4季 第18集》",
+            "sen": "Dead as in \"crash landed, burnt to a <em>crisp</em>\" dead.",
+            "sen_tran": "死在紧急迫降中 被烧死成了焦炭",
+            "pic_url": "./pic/crisp-3.jpg",
+            "pron_url": "./audio/crisp-3.mp3"
+        },
+        {
+            "origin": "来自《大西洋帝国 第1季 第12集》",
+            "sen": "It's like walking through a wood on a <em>crisp</em> autumn--,...from the snares of the devil,",
+            "sen_tran": "就像在舒爽的秋日穿过森林,自恶魔的诱惑中",
+            "pic_url": "./pic/crisp-4.jpg",
+            "pron_url": "./audio/crisp-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：有关食物的心理学、生物学和政治学 第22集》",
+            "sen": "from the New Haven Public Schools serving squabble <em>crisp</em>,probably not something you've had before,",
+            "sen_tran": "纽黑文公共学校的厨师为大家烹制南瓜脆,大家可能以前没吃过这东西",
+            "pic_url": "./pic/crisp-5.jpg",
+            "pron_url": "./audio/crisp-5.mp3"
+        }
+    ]
+},
+{
+    "word": "crisp",
+    "am_phonetic": "/krɪsp/",
+    "en_phonetic": "/krɪsp/",
+    "tran": [
+        {
+            "adj": "脆的；新鲜的；易碎的"
+        },
+        {
+            "vt": "使卷曲；使发脆"
+        },
+        {
+            "vi": "卷曲；发脆"
+        },
+        {
+            "n": "松脆物；油炸马铃薯片"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《超级英雄》",
+            "sen": "I've been bathing their apple <em>crisp</em> and Tater Tots,in the Beam of Sloth.",
+            "sen_tran": "我把他们的苹果酥和小土豆,都用\"懒散射线\"烤过了",
+            "pic_url": "./pic/crisp-0.jpg",
+            "pron_url": "./audio/crisp-0.mp3"
+        },
+        {
+            "origin": "来自《侠胆雄狮 第1季》",
+            "sen": "This place will be burnt to a <em>crisp</em>,before anyone even arrives.",
+            "sen_tran": "在他们到来之前,这个地方就会燃为灰烬",
+            "pic_url": "./pic/crisp-1.jpg",
+            "pron_url": "./audio/crisp-1.mp3"
+        },
+        {
+            "origin": "来自《冬天的骨头》",
+            "sen": "You're saying dad's up there burnt to a <em>crisp</em>?",
+            "sen_tran": "你是说我爸在里头烧的一干二净了吗",
+            "pic_url": "./pic/crisp-2.jpg",
+            "pron_url": "./audio/crisp-2.mp3"
+        },
+        {
+            "origin": "来自《太空堡垒卡拉狄加 第4季 第18集》",
+            "sen": "Dead as in \"crash landed, burnt to a <em>crisp</em>\" dead.",
+            "sen_tran": "死在紧急迫降中 被烧死成了焦炭",
+            "pic_url": "./pic/crisp-3.jpg",
+            "pron_url": "./audio/crisp-3.mp3"
+        },
+        {
+            "origin": "来自《大西洋帝国 第1季 第12集》",
+            "sen": "It's like walking through a wood on a <em>crisp</em> autumn--,...from the snares of the devil,",
+            "sen_tran": "就像在舒爽的秋日穿过森林,自恶魔的诱惑中",
+            "pic_url": "./pic/crisp-4.jpg",
+            "pron_url": "./audio/crisp-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：有关食物的心理学、生物学和政治学 第22集》",
+            "sen": "from the New Haven Public Schools serving squabble <em>crisp</em>,probably not something you've had before,",
+            "sen_tran": "纽黑文公共学校的厨师为大家烹制南瓜脆,大家可能以前没吃过这东西",
+            "pic_url": "./pic/crisp-5.jpg",
+            "pron_url": "./audio/crisp-5.mp3"
+        }
+    ]
+},
+{
+    "word": "crisply",
+    "am_phonetic": "//",
+    "en_phonetic": "/'krɪspli/",
+    "tran": [
+        {
+            "adv": "清楚地；易碎地"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "crispness",
+    "am_phonetic": "//",
+    "en_phonetic": "/'krɪspnɪs/",
+    "tran": [
+        {
+            "n": "易碎；清新；酥脆"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "crispbread",
+    "am_phonetic": "/'krɪspbrɛd/",
+    "en_phonetic": "/'krɪspbrɛd/",
+    "tran": [
+        {
+            "n": "（用碾碎的黑麦等制成的）薄脆饼干"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "crisply",
+    "am_phonetic": "//",
+    "en_phonetic": "/'krɪspli/",
+    "tran": [
+        {
+            "adv": "清楚地；易碎地"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "crispness",
+    "am_phonetic": "//",
+    "en_phonetic": "/'krɪspnɪs/",
+    "tran": [
+        {
+            "n": "易碎；清新；酥脆"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "crispy",
+    "am_phonetic": "/'krɪspi/",
+    "en_phonetic": "/'krɪspɪ/",
+    "tran": [
+        {
+            "adj": "酥脆的；易碎的；干净利落的；生气勃勃的"
+        },
+        {
+            "n": "(Crispy)人名；(法)克里斯皮"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《芝加哥烈焰 第1季 第3集》",
+            "sen": "But I ordered <em>crispy</em> bacon and, uh, this...ain't <em>crispy</em>.",
+            "sen_tran": "我点的是酥脆培根 这脆在哪",
+            "pic_url": "./pic/crispy-0.jpg",
+            "pron_url": "./audio/crispy-0.mp3"
+        },
+        {
+            "origin": "来自《惊天魔盗团》",
+            "sen": "Elkhorn file right from his <em>crispy</em> little hand.",
+            "sen_tran": "正是埃尔克霍恩的机密文件",
+            "pic_url": "./pic/crispy-1.jpg",
+            "pron_url": "./audio/crispy-1.mp3"
+        },
+        {
+            "origin": "来自《脱狱之王 第1季 第5集》",
+            "sen": "who she turned into a <em>crispy</em> critter one night?",
+            "sen_tran": "她在某个晚上一把火送他上了西天",
+            "pic_url": "./pic/crispy-2.jpg",
+            "pron_url": "./audio/crispy-2.mp3"
+        },
+        {
+            "origin": "来自《谍影迷情 第1季 第9集》",
+            "sen": "I feel a little <em>crispy</em> after that drive.",
+            "sen_tran": "开了一路车 我觉得神清气爽",
+            "pic_url": "./pic/crispy-3.jpg",
+            "pron_url": "./audio/crispy-3.mp3"
+        },
+        {
+            "origin": "来自《绝望的主妇 第7季 第7集》",
+            "sen": "It's just a little <em>crispy</em>. It'll be fine.",
+            "sen_tran": "有点脆而已 晾会就好了",
+            "pic_url": "./pic/crispy-4.jpg",
+            "pron_url": "./audio/crispy-4.mp3"
+        },
+        {
+            "origin": "来自《犯罪现场调查 第12季 第11集》",
+            "sen": "Well, I hope they like it extra <em>crispy</em>.",
+            "sen_tran": "但愿它们喜欢吃脆一点的",
+            "pic_url": "./pic/crispy-5.jpg",
+            "pron_url": "./audio/crispy-5.mp3"
+        }
+    ]
+},
+{
+    "word": "crisscross",
+    "am_phonetic": "/'krɪs,krɔs/",
+    "en_phonetic": "/'krɪs,krɒs/",
+    "tran": [
+        {
+            "n": "十字形；矛盾"
+        },
+        {
+            "adj": "十字形的；交叉的"
+        },
+        {
+            "vt": "画十字形于…；使…交叉成十字状"
+        },
+        {
+            "vi": "交叉；交叉往来"
+        },
+        {
+            "adv": "十字形地；十字交叉地"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "crisscross",
+    "am_phonetic": "/'krɪs,krɔs/",
+    "en_phonetic": "/'krɪs,krɒs/",
+    "tran": [
+        {
+            "n": "十字形；矛盾"
+        },
+        {
+            "adj": "十字形的；交叉的"
+        },
+        {
+            "vt": "画十字形于…；使…交叉成十字状"
+        },
+        {
+            "vi": "交叉；交叉往来"
+        },
+        {
+            "adv": "十字形地；十字交叉地"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "evil",
+    "am_phonetic": "/'ivl/",
+    "en_phonetic": "/'iːv(ə)l; -vɪl/",
+    "tran": [
+        {
+            "adj": "邪恶的；不幸的；有害的；讨厌的"
+        },
+        {
+            "n": "罪恶，邪恶；不幸"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《犯罪心理 第8季 第9集》",
+            "sen": "Isn't the phrase supposed to be \"See no <em>evil</em>, hear no <em>evil</em>\"?",
+            "sen_tran": "不应该是\"目不见恶 耳不闻恶\"吗",
+            "pic_url": "./pic/evil-0.jpg",
+            "pron_url": "./audio/evil-0.mp3"
+        },
+        {
+            "origin": "来自《废柴联盟 第3季 第4集》",
+            "sen": "We're the <em>evil</em> study group, and we have but one <em>evil</em> goal.",
+            "sen_tran": "我们是邪恶学习小组 有一个邪恶的目的",
+            "pic_url": "./pic/evil-1.jpg",
+            "pron_url": "./audio/evil-1.mp3"
+        },
+        {
+            "origin": "来自《唐顿庄园 第3季 第8集》",
+            "sen": "- Am I not to stand up against <em>evil</em>? - <em>Evil</em>?",
+            "sen_tran": "-难道我不能反抗邪恶吗 -邪恶",
+            "pic_url": "./pic/evil-2.jpg",
+            "pron_url": "./audio/evil-2.mp3"
+        },
+        {
+            "origin": "来自《谎言之躯》",
+            "sen": "those to whom <em>evil</em> is done do <em>evil</em> in return. W.H.Auden,Manchester England",
+            "sen_tran": "恶有恶报之道 摘自奥登作品,英格兰 曼彻斯特城",
+            "pic_url": "./pic/evil-3.jpg",
+            "pron_url": "./audio/evil-3.mp3"
+        },
+        {
+            "origin": "来自《警戒结束》",
+            "sen": "So Mr. Big <em>Evil</em>... why do they call you Big <em>Evil</em>?",
+            "sen_tran": "那大恶人先生 他们为什么叫你大恶人",
+            "pic_url": "./pic/evil-4.jpg",
+            "pron_url": "./audio/evil-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：博弈论 第1集》",
+            "sen": "We've seen a case where an <em>evil</em> git was playing an <em>evil</em> git;",
+            "sen_tran": "一种是饭桶恶魔于与饭桶恶魔的博弈",
+            "pic_url": "./pic/evil-5.jpg",
+            "pron_url": "./audio/evil-5.mp3"
+        }
+    ]
+},
+{
+    "word": "evil",
+    "am_phonetic": "/'ivl/",
+    "en_phonetic": "/'iːv(ə)l; -vɪl/",
+    "tran": [
+        {
+            "adj": "邪恶的；不幸的；有害的；讨厌的"
+        },
+        {
+            "n": "罪恶，邪恶；不幸"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《犯罪心理 第8季 第9集》",
+            "sen": "Isn't the phrase supposed to be \"See no <em>evil</em>, hear no <em>evil</em>\"?",
+            "sen_tran": "不应该是\"目不见恶 耳不闻恶\"吗",
+            "pic_url": "./pic/evil-0.jpg",
+            "pron_url": "./audio/evil-0.mp3"
+        },
+        {
+            "origin": "来自《废柴联盟 第3季 第4集》",
+            "sen": "We're the <em>evil</em> study group, and we have but one <em>evil</em> goal.",
+            "sen_tran": "我们是邪恶学习小组 有一个邪恶的目的",
+            "pic_url": "./pic/evil-1.jpg",
+            "pron_url": "./audio/evil-1.mp3"
+        },
+        {
+            "origin": "来自《唐顿庄园 第3季 第8集》",
+            "sen": "- Am I not to stand up against <em>evil</em>? - <em>Evil</em>?",
+            "sen_tran": "-难道我不能反抗邪恶吗 -邪恶",
+            "pic_url": "./pic/evil-2.jpg",
+            "pron_url": "./audio/evil-2.mp3"
+        },
+        {
+            "origin": "来自《谎言之躯》",
+            "sen": "those to whom <em>evil</em> is done do <em>evil</em> in return. W.H.Auden,Manchester England",
+            "sen_tran": "恶有恶报之道 摘自奥登作品,英格兰 曼彻斯特城",
+            "pic_url": "./pic/evil-3.jpg",
+            "pron_url": "./audio/evil-3.mp3"
+        },
+        {
+            "origin": "来自《警戒结束》",
+            "sen": "So Mr. Big <em>Evil</em>... why do they call you Big <em>Evil</em>?",
+            "sen_tran": "那大恶人先生 他们为什么叫你大恶人",
+            "pic_url": "./pic/evil-4.jpg",
+            "pron_url": "./audio/evil-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：博弈论 第1集》",
+            "sen": "We've seen a case where an <em>evil</em> git was playing an <em>evil</em> git;",
+            "sen_tran": "一种是饭桶恶魔于与饭桶恶魔的博弈",
+            "pic_url": "./pic/evil-5.jpg",
+            "pron_url": "./audio/evil-5.mp3"
+        }
+    ]
+},
+{
+    "word": "evilly",
+    "am_phonetic": "//",
+    "en_phonetic": "/'ivəli/",
+    "tran": [
+        {
+            "adv": "邪恶地"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "evilly",
+    "am_phonetic": "//",
+    "en_phonetic": "/'ivəli/",
+    "tran": [
+        {
+            "adv": "邪恶地"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "evil-minded",
+    "am_phonetic": "//",
+    "en_phonetic": "/'i:vəl'maindid/",
+    "tran": [
+        {
+            "adj": "恶毒的；心地邪恶的"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "evince",
+    "am_phonetic": "/ɪ'vɪns/",
+    "en_phonetic": "/ɪ'vɪns/",
+    "tran": [
+        {
+            "vt": "表明，表示；引起"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "eviscerate",
+    "am_phonetic": "/ɪ'vɪsəret/",
+    "en_phonetic": "/ɪ'vɪsəreɪt/",
+    "tran": [
+        {
+            "vt": "取出内脏；除去精华"
+        },
+        {
+            "vi": "内脏凸出"
+        },
+        {
+            "adj": "内脏被取出的"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《迷失 第1季 第4集》",
+            "sen": "who'd love nothing more than to <em>eviscerate</em> anything near.",
+            "sen_tran": "就喜欢吃周围动物的内脏",
+            "pic_url": "./pic/eviscerate-0.jpg",
+            "pron_url": "./audio/eviscerate-0.mp3"
+        },
+        {
+            "origin": "来自《绝望的主妇 第1季 第10集》",
+            "sen": "and together we are going to <em>eviscerate</em> you.",
+            "sen_tran": "然后掏空你的一切",
+            "pic_url": "./pic/eviscerate-1.jpg",
+            "pron_url": "./audio/eviscerate-1.mp3"
+        }
+    ]
+},
+{
+    "word": "evocative",
+    "am_phonetic": "/ɪ'vɑkətɪv/",
+    "en_phonetic": "/ɪ'vɒkətɪv/",
+    "tran": [
+        {
+            "adj": "唤起的；唤出的"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《耶鲁大学开放课程：1945年后的美国小说 第23集》",
+            "sen": "So, it has a very <em>evocative</em> narrative power,that doesn't depend on people's being able to read it,",
+            "sen_tran": "这是叙事的一种无与伦比的力量,并不取决于人类是否能读懂",
+            "pic_url": "./pic/evocative-0.jpg",
+            "pron_url": "./audio/evocative-0.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：心理学导论 第20集》",
+            "sen": "the keys to happiness in a nicely <em>evocative</em> passage:,\"We are happier when we are healthy, well-fed,",
+            "sen_tran": "总结道幸福的关键 而且引起了很大共鸣,\"当我们健康 吃得好",
+            "pic_url": "./pic/evocative-1.jpg",
+            "pron_url": "./audio/evocative-1.mp3"
+        },
+        {
+            "origin": "来自《哈佛大学公共课-公正：该如何做是好》",
+            "sen": "These examples, they maybe intuitively <em>evocative</em>, Rina said.",
+            "sen_tran": "这些例子可能直观地引起共鸣 丽娜说",
+            "pic_url": "./pic/evocative-2.jpg",
+            "pron_url": "./audio/evocative-2.mp3"
+        }
+    ]
+},
+{
+    "word": "evoke",
+    "am_phonetic": "/ɪ'vok/",
+    "en_phonetic": "/ɪ'vəʊk/",
+    "tran": [
+        {
+            "vt": "引起，唤起；博得"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《变形金刚3：月黑之时》",
+            "sen": "Built to <em>evoke</em> the body of the ideal woman.",
+            "sen_tran": "让人想起女人的完美曲线",
+            "pic_url": "./pic/evoke-0.jpg",
+            "pron_url": "./audio/evoke-0.mp3"
+        },
+        {
+            "origin": "来自《灵书妙探 第4季 第17集》",
+            "sen": "to <em>evoke</em> images of little red riding hood.",
+            "sen_tran": "好让人们想到小红帽",
+            "pic_url": "./pic/evoke-1.jpg",
+            "pron_url": "./audio/evoke-1.mp3"
+        },
+        {
+            "origin": "来自《犯罪心理 第9季 第5集》",
+            "sen": "may have <em>evoke</em> a need to commemorate the event.",
+            "sen_tran": "可能让他觉得有必要纪念此事",
+            "pic_url": "./pic/evoke-2.jpg",
+            "pron_url": "./audio/evoke-2.mp3"
+        },
+        {
+            "origin": "来自《完美感觉》",
+            "sen": "The scent of cut hay could <em>evoke</em> a childhood fear of cows.",
+            "sen_tran": "切干草的气味会唤起童年对奶牛的惧怕",
+            "pic_url": "./pic/evoke-3.jpg",
+            "pron_url": "./audio/evoke-3.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：有关食物的心理学、生物学和政治学 第3集》",
+            "sen": "and those <em>evoke</em> a lot of interesting sensations in people,a lot of interesting reactions in people",
+            "sen_tran": "这唤起了人们许多有趣的反应,这些反应很有意思",
+            "pic_url": "./pic/evoke-4.jpg",
+            "pron_url": "./audio/evoke-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：欧洲文明 第8集》",
+            "sen": "again which one hesitates to <em>evoke</em>, is of course prostitution.",
+            "sen_tran": "也是较难以启齿的 就是卖淫",
+            "pic_url": "./pic/evoke-5.jpg",
+            "pron_url": "./audio/evoke-5.mp3"
+        }
+    ]
+},
+{
+    "word": "handgun",
+    "am_phonetic": "/'hænd'gʌn/",
+    "en_phonetic": "/'hæn(d)gʌn/",
+    "tran": [
+        {
+            "n": "手枪"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《源代码》",
+            "sen": "Inside is a loaded <em>handgun</em>. Get to it.",
+            "sen_tran": "箱内有一把上膛的手枪 找到它",
+            "pic_url": "./pic/handgun-0.jpg",
+            "pron_url": "./audio/handgun-0.mp3"
+        },
+        {
+            "origin": "来自《失败者》",
+            "sen": "It's like giving a <em>handgun</em> to a 6-year-old, Wade.",
+            "sen_tran": "就像是把手枪给个六岁的孩子 韦德",
+            "pic_url": "./pic/handgun-1.jpg",
+            "pron_url": "./audio/handgun-1.mp3"
+        },
+        {
+            "origin": "来自《脱狱之王 第2季 第3集》",
+            "sen": "uh, he tucked the <em>handgun</em> into his pants,and shot himself in the butt.",
+            "sen_tran": "他把手枪塞进裤管里,结果枪打中了他的屁股",
+            "pic_url": "./pic/handgun-2.jpg",
+            "pron_url": "./audio/handgun-2.mp3"
+        },
+        {
+            "origin": "来自《灵书妙探 第6季 第16集》",
+            "sen": "Based on the entry wound, I'd say a small-caliber <em>handgun</em>.",
+            "sen_tran": "从入口伤来看 应该是小口径手枪",
+            "pic_url": "./pic/handgun-3.jpg",
+            "pron_url": "./audio/handgun-3.mp3"
+        },
+        {
+            "origin": "来自《灵书妙探 第3季 第8集》",
+            "sen": "That's quite an accurate shot with a <em>handgun</em>.",
+            "sen_tran": "凶手枪法很准嘛",
+            "pic_url": "./pic/handgun-4.jpg",
+            "pron_url": "./audio/handgun-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：有关食物的心理学、生物学和政治学 第19集》",
+            "sen": "so he now has the <em>handgun</em>, the pistol without the magazine in it,and he says to Ross, let's go out and play.",
+            "sen_tran": "所以他现在拿着一把没有装弹夹的手枪,然后他跟罗斯说 我们出去玩儿吧",
+            "pic_url": "./pic/handgun-5.jpg",
+            "pron_url": "./audio/handgun-5.mp3"
+        }
+    ]
+},
+{
+    "word": "handheld",
+    "am_phonetic": "/hændhɛld/",
+    "en_phonetic": "/hændheld/",
+    "tran": [
+        {
+            "adj": "掌上型；手持型"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《灵书妙探 第5季 第22集》",
+            "sen": "What'd you find out about that <em>handheld</em> remote he had?",
+            "sen_tran": "你们在他手持遥控器上查到了什么",
+            "pic_url": "./pic/handheld-0.jpg",
+            "pron_url": "./audio/handheld-0.mp3"
+        },
+        {
+            "origin": "来自《新闻编辑室 第1季 第5集》",
+            "sen": "I have a <em>handheld</em> directional, but it works pretty well.",
+            "sen_tran": "我有手持指向天线设备 效果不错",
+            "pic_url": "./pic/handheld-1.jpg",
+            "pron_url": "./audio/handheld-1.mp3"
+        },
+        {
+            "origin": "来自《别对我撒谎 第1季 第2集》",
+            "sen": "They want your assessment of the new <em>handheld</em> polygraph.",
+            "sen_tran": "他们想请你对新的手提测谎仪作评估",
+            "pic_url": "./pic/handheld-2.jpg",
+            "pron_url": "./audio/handheld-2.mp3"
+        },
+        {
+            "origin": "来自《亚瑟·圣诞》",
+            "sen": "It's a <em>handheld</em> operational and homing organizer. The HOHO 3000.",
+            "sen_tran": "这是操作导航掌上助手 HOHO3000",
+            "pic_url": "./pic/handheld-3.jpg",
+            "pron_url": "./audio/handheld-3.mp3"
+        },
+        {
+            "origin": "来自《忍者神龟2：破影而出》",
+            "sen": "And I made a <em>handheld</em> version of the teleportation devi...",
+            "sen_tran": "我还制作了一个手持版的传送装置...",
+            "pic_url": "./pic/handheld-4.jpg",
+            "pron_url": "./audio/handheld-4.mp3"
+        },
+        {
+            "origin": "来自《太空堡垒卡拉狄加2003迷你版 (上)》",
+            "sen": "Water main is down. I'm tryin' to fight this fire with <em>handheld</em> gear.",
+            "sen_tran": "总水管坏了 我正在用手动装备灭火",
+            "pic_url": "./pic/handheld-5.jpg",
+            "pron_url": "./audio/handheld-5.mp3"
+        }
+    ]
+},
+{
+    "word": "hand-held",
+    "am_phonetic": "//",
+    "en_phonetic": "/'hændheld/",
+    "tran": [
+        {
+            "adj": "手提式的，便携式的"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "handhold",
+    "am_phonetic": "/'hænd'hold/",
+    "en_phonetic": "/'hændhəʊld/",
+    "tran": [
+        {
+            "n": "握住；线索；把柄；攀缘时手可抓的东西（或地方）"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "handicap",
+    "am_phonetic": "/'hændɪ'kæp/",
+    "en_phonetic": "/'hændɪkæp/",
+    "tran": [
+        {
+            "n": "障碍；生理缺陷；弱智；不利条件，不利的因素"
+        },
+        {
+            "vt": "妨碍，阻碍；使不利"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《天龙特攻队 加长版》",
+            "sen": "You can't park there. That's a <em>handicap</em> zone.",
+            "sen_tran": "你不能停在那里 那是残疾人专用的",
+            "pic_url": "./pic/handicap-0.jpg",
+            "pron_url": "./audio/handicap-0.mp3"
+        },
+        {
+            "origin": "来自《谍影迷情 第3季 第13集》",
+            "sen": "just 'cause their daddies have a ten <em>handicap</em>.",
+            "sen_tran": "高尔夫球技胜人一筹 他就能逍遥法外",
+            "pic_url": "./pic/handicap-1.jpg",
+            "pron_url": "./audio/handicap-1.mp3"
+        },
+        {
+            "origin": "来自《犯罪心理 第5季 第12集》",
+            "sen": "Which also means she has a <em>handicap</em> placard.",
+            "sen_tran": "也就是说她有残障人士通行卡",
+            "pic_url": "./pic/handicap-2.jpg",
+            "pron_url": "./audio/handicap-2.mp3"
+        },
+        {
+            "origin": "来自《废柴联盟 第2季 第8集》",
+            "sen": "I don't want people think of me as a <em>handicap</em>.",
+            "sen_tran": "我不想让别人以为我是残疾人",
+            "pic_url": "./pic/handicap-3.jpg",
+            "pron_url": "./audio/handicap-3.mp3"
+        },
+        {
+            "origin": "来自《犯罪心理 第7季 第16集》",
+            "sen": "<em>Handicap</em> permits grant access all over the city.",
+            "sen_tran": "残疾人执照允许他们在全城的街边停车",
+            "pic_url": "./pic/handicap-4.jpg",
+            "pron_url": "./audio/handicap-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：古希腊历史简介 第22集》",
+            "sen": "when you have a <em>handicap</em> like that in a society which values,physical valor and strength, and military success so highly",
+            "sen_tran": "在一个像斯巴达人一样注重勇敢和力量,注重军事胜利的社会里",
+            "pic_url": "./pic/handicap-5.jpg",
+            "pron_url": "./audio/handicap-5.mp3"
+        }
+    ]
+},
+{
+    "word": "handicap",
+    "am_phonetic": "/'hændɪ'kæp/",
+    "en_phonetic": "/'hændɪkæp/",
+    "tran": [
+        {
+            "n": "障碍；生理缺陷；弱智；不利条件，不利的因素"
+        },
+        {
+            "vt": "妨碍，阻碍；使不利"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《天龙特攻队 加长版》",
+            "sen": "You can't park there. That's a <em>handicap</em> zone.",
+            "sen_tran": "你不能停在那里 那是残疾人专用的",
+            "pic_url": "./pic/handicap-0.jpg",
+            "pron_url": "./audio/handicap-0.mp3"
+        },
+        {
+            "origin": "来自《谍影迷情 第3季 第13集》",
+            "sen": "just 'cause their daddies have a ten <em>handicap</em>.",
+            "sen_tran": "高尔夫球技胜人一筹 他就能逍遥法外",
+            "pic_url": "./pic/handicap-1.jpg",
+            "pron_url": "./audio/handicap-1.mp3"
+        },
+        {
+            "origin": "来自《犯罪心理 第5季 第12集》",
+            "sen": "Which also means she has a <em>handicap</em> placard.",
+            "sen_tran": "也就是说她有残障人士通行卡",
+            "pic_url": "./pic/handicap-2.jpg",
+            "pron_url": "./audio/handicap-2.mp3"
+        },
+        {
+            "origin": "来自《废柴联盟 第2季 第8集》",
+            "sen": "I don't want people think of me as a <em>handicap</em>.",
+            "sen_tran": "我不想让别人以为我是残疾人",
+            "pic_url": "./pic/handicap-3.jpg",
+            "pron_url": "./audio/handicap-3.mp3"
+        },
+        {
+            "origin": "来自《犯罪心理 第7季 第16集》",
+            "sen": "<em>Handicap</em> permits grant access all over the city.",
+            "sen_tran": "残疾人执照允许他们在全城的街边停车",
+            "pic_url": "./pic/handicap-4.jpg",
+            "pron_url": "./audio/handicap-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：古希腊历史简介 第22集》",
+            "sen": "when you have a <em>handicap</em> like that in a society which values,physical valor and strength, and military success so highly",
+            "sen_tran": "在一个像斯巴达人一样注重勇敢和力量,注重军事胜利的社会里",
+            "pic_url": "./pic/handicap-5.jpg",
+            "pron_url": "./audio/handicap-5.mp3"
+        }
+    ]
+},
+{
+    "word": "lager lout",
+    "am_phonetic": "//",
+    "en_phonetic": "//",
+    "tran": [
+        {
+            "n": "喝酒后行为不端的年轻人"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "laggard",
+    "am_phonetic": "//",
+    "en_phonetic": "/'lægəd/",
+    "tran": [
+        {
+            "adj": "落后的；迟钝的；迟缓的"
+        },
+        {
+            "n": "落后者；迟钝者"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "laggardly",
+    "am_phonetic": "//",
+    "en_phonetic": "/'lægədli/",
+    "tran": [
+        {
+            "adj": "缓慢的；落后的"
+        },
+        {
+            "adv": "行动迟缓地"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "laggardly",
+    "am_phonetic": "//",
+    "en_phonetic": "/'lægədli/",
+    "tran": [
+        {
+            "adj": "缓慢的；落后的"
+        },
+        {
+            "adv": "行动迟缓地"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "lagging",
+    "am_phonetic": "/'lægɪŋ/",
+    "en_phonetic": "/'lægɪŋ/",
+    "tran": [
+        {
+            "n": "绝缘层材料"
+        },
+        {
+            "adj": "落后的"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《万物理论》",
+            "sen": "Sorry, I'm <em>lagging</em> behind in my pioneering research into,obscure, motor, baseball related diseases.",
+            "sen_tran": "不好意思 神经运动 棒球什么的病,我还没深入研究过",
+            "pic_url": "./pic/lagging-0.jpg",
+            "pron_url": "./audio/lagging-0.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：金融市场 第23集》",
+            "sen": "but remember this is a six-month--it's a <em>lagging</em> six months.",
+            "sen_tran": "因为这里有6个月的滞后",
+            "pic_url": "./pic/lagging-1.jpg",
+            "pron_url": "./audio/lagging-1.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：有关食物的心理学、生物学和政治学 第14集》",
+            "sen": "that is so <em>lagging</em>, Millennium Development Goal Number One.",
+            "sen_tran": "这个首要的千禧年发展目标已经滞后太久",
+            "pic_url": "./pic/lagging-2.jpg",
+            "pron_url": "./audio/lagging-2.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：金融市场 第22集》",
+            "sen": "and they kind of know when the S&amp;P 500 is <em>lagging</em>,and they immediately correct it in the futures price.",
+            "sen_tran": "他们知道什么时候标普500指数落后了,然后立刻在期价上纠正过来",
+            "pic_url": "./pic/lagging-3.jpg",
+            "pron_url": "./audio/lagging-3.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：生物医学工程探索 第24集》",
+            "sen": "Then, <em>lagging</em> behind that by about a period of 30 years,is a dramatic increase in lung cancer.",
+            "sen_tran": "然后在此后的30年,肺癌的有了显著的增长",
+            "pic_url": "./pic/lagging-4.jpg",
+            "pron_url": "./audio/lagging-4.mp3"
+        }
+    ]
+},
+{
+    "word": "lagoon",
+    "am_phonetic": "/lə'gʊn/",
+    "en_phonetic": "/lə'guːn/",
+    "tran": [
+        {
+            "n": "[地理][水文] 泻湖；环礁湖；咸水湖"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《迷失 第5季 第6集》",
+            "sen": "The next thing I know, I'm in the <em>lagoon</em>.",
+            "sen_tran": "接下来就发现 我在湖里",
+            "pic_url": "./pic/lagoon-0.jpg",
+            "pron_url": "./audio/lagoon-0.mp3"
+        }
+    ]
+},
+{
+    "word": "laid-back",
+    "am_phonetic": "//",
+    "en_phonetic": "/'leidbæk/",
+    "tran": [],
+    "example": [
+        {
+            "origin": "来自《预产期》",
+            "sen": "This one, this is a <em>laid-back</em> guy with a Hawaiian shirt...",
+            "sen_tran": "这张 是个穿着夏威夷衬衫的休闲男",
+            "pic_url": "./pic/laid-back-0.jpg",
+            "pron_url": "./audio/laid-back-0.mp3"
+        }
+    ]
+},
+{
+    "word": "lain",
+    "am_phonetic": "/len/",
+    "en_phonetic": "/leɪn/",
+    "tran": [
+        {
+            "": "原型 "
+        },
+        {
+            "": " "
+        },
+        {
+            "": " "
+        },
+        {
+            "": " "
+        },
+        {
+            "v": "躺，位于（lie的过去分词）"
+        },
+        {
+            "n": "(Lain)人名；(英、法、捷)莱恩"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《恋爱手册 第1季 第12集》",
+            "sen": "that had <em>lain</em> dormant for far too long.",
+            "sen_tran": "沉睡已久的火焰",
+            "pic_url": "./pic/lain-0.jpg",
+            "pron_url": "./audio/lain-0.mp3"
+        },
+        {
+            "origin": "来自《白雪公主与猎人》",
+            "sen": "She killed my brave <em>Lain</em> with just the palm of her hand,and then she drew a dagger from her side with no blood.",
+            "sen_tran": "她用一只手就杀了我勇敢的儿子里恩,然后还从身上拔下一只匕首 毫发未损",
+            "pic_url": "./pic/lain-1.jpg",
+            "pron_url": "./audio/lain-1.mp3"
+        }
+    ]
+},
+{
+    "word": "lair",
+    "am_phonetic": "/lɛr/",
+    "en_phonetic": "/leə/",
+    "tran": [
+        {
+            "n": "（野兽的）[动] 巢穴；躲藏处"
+        },
+        {
+            "vi": "进入兽穴；在穴中休息"
+        },
+        {
+            "vt": "使陷入泥潭；放于穴中"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《亚特兰蒂斯 第1季 第8集》",
+            "sen": "It is to be found in Campe's <em>lair</em> in Hades.",
+            "sen_tran": "在哈迪斯的坎普的洞穴里",
+            "pic_url": "./pic/lair-0.jpg",
+            "pron_url": "./audio/lair-0.mp3"
+        },
+        {
+            "origin": "来自《豚鼠特工队》",
+            "sen": "You infiltrated the bad guy's <em>lair</em>. Where is he?",
+            "sen_tran": "你深入到敌人的巢穴来了啊 他在哪里",
+            "pic_url": "./pic/lair-1.jpg",
+            "pron_url": "./audio/lair-1.mp3"
+        },
+        {
+            "origin": "来自《雨果》",
+            "sen": "how about letting me see your covert <em>lair</em>?",
+            "sen_tran": "让我看看你的隐蔽所如何",
+            "pic_url": "./pic/lair-2.jpg",
+            "pron_url": "./audio/lair-2.mp3"
+        },
+        {
+            "origin": "来自《超级大坏蛋》",
+            "sen": "It's like one of the giant monitors in the <em>lair</em>.",
+            "sen_tran": "就像巢穴里那个大显示器",
+            "pic_url": "./pic/lair-3.jpg",
+            "pron_url": "./audio/lair-3.mp3"
+        },
+        {
+            "origin": "来自《我欲为人 第1季 第12集》",
+            "sen": "and he's building a new green vampire <em>lair</em>.",
+            "sen_tran": "可能他正在建造另一个吸血鬼巢穴",
+            "pic_url": "./pic/lair-4.jpg",
+            "pron_url": "./audio/lair-4.mp3"
+        },
+        {
+            "origin": "来自《灵书妙探 第5季 第6集》",
+            "sen": "On the <em>lair</em> of an evil laser-gun-making genius.",
+            "sen_tran": "挂在制作激光枪的邪恶天才的老巢门口",
+            "pic_url": "./pic/lair-5.jpg",
+            "pron_url": "./audio/lair-5.mp3"
+        }
+    ]
+},
+{
+    "word": "laird",
+    "am_phonetic": "/lɛrd/",
+    "en_phonetic": "/leəd/",
+    "tran": [
+        {
+            "n": "领主，地主"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《太空堡垒卡拉狄加 第4季 第8集》",
+            "sen": "<em>Laird</em> was able to salvage the flight data recorder,puts the originating jump point deep in Sector Delta 9.",
+            "sen_tran": "莱尔德成功恢复了飞行数据记录仪,显示最后一次跳跃源头指向D9区域的深处",
+            "pic_url": "./pic/laird-0.jpg",
+            "pron_url": "./audio/laird-0.mp3"
+        },
+        {
+            "origin": "来自《脱狱之王 第1季 第10集》",
+            "sen": "Parker Bancroft was in Sigma Zeta Chi with <em>Laird</em> Lipinski,but only for a couple of months",
+            "sen_tran": "帕克·班克劳夫在莱尔德·里宾斯基,零七年离开学校前的几个月",
+            "pic_url": "./pic/laird-1.jpg",
+            "pron_url": "./audio/laird-1.mp3"
+        },
+        {
+            "origin": "来自《太空堡垒卡拉狄加：利刃》",
+            "sen": "Mr. <em>Laird</em>, Admiral Cain ordered me to give you this.",
+            "sen_tran": "莱尔德先生 凯恩上将命令我将这个交给你",
+            "pic_url": "./pic/laird-2.jpg",
+            "pron_url": "./audio/laird-2.mp3"
+        },
+        {
+            "origin": "来自《太空堡垒卡拉狄加 第4季 第13集》",
+            "sen": "<em>Laird</em> probably rescheduled it and it didn't make it into the system.",
+            "sen_tran": "可能是莱尔德重新安排了还没有写到系统里",
+            "pic_url": "./pic/laird-3.jpg",
+            "pron_url": "./audio/laird-3.mp3"
+        },
+        {
+            "origin": "来自《脱狱之王 第1季 第10集》",
+            "sen": "Parker and <em>Laird</em> were the only two charged in the rape,and there's no testimony even mentioning",
+            "sen_tran": "本案中 只有帕克和莱尔德被起诉,也无其他证据显示",
+            "pic_url": "./pic/laird-4.jpg",
+            "pron_url": "./audio/laird-4.mp3"
+        }
+    ]
+},
+{
+    "word": "lairy",
+    "am_phonetic": "//",
+    "en_phonetic": "/'lɛri/",
+    "tran": [
+        {
+            "adj": "艳俗的；华丽而俗气的"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "no claims bonus",
+    "am_phonetic": "//",
+    "en_phonetic": "//",
+    "tran": [
+        {
+            "": "无赔偿退款"
+        },
+        {
+            "": "无赔款退费"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《一年之痒》",
+            "sen": "Or at the very least, the loss of any <em>no-claims</em> <em>bonus</em>.",
+            "sen_tran": "但明年的无索偿奖金肯定泡汤了",
+            "pic_url": "./pic/no claims bonus-0.jpg",
+            "pron_url": "./audio/no claims bonus-0.mp3"
+        }
+    ]
+},
+{
+    "word": "take no count of",
+    "am_phonetic": "//",
+    "en_phonetic": "//",
+    "tran": [
+        {
+            "v": "不重视"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《公主和青蛙》",
+            "sen": "No, you're a <em>no-count</em>, plundering, lazy bump on a log.",
+            "sen_tran": "错 你是个没钱没品又懒惰的呆子",
+            "pic_url": "./pic/take no count of-0.jpg",
+            "pron_url": "./audio/take no count of-0.mp3"
+        }
+    ]
+},
+{
+    "word": "nocturnal",
+    "am_phonetic": "/nɑk'tɝnl/",
+    "en_phonetic": "/nɒk'tɜːn(ə)l/",
+    "tran": [
+        {
+            "adj": "夜的；夜曲的；夜间发生的"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《上帝保佑美国》",
+            "sen": "to some kind of <em>nocturnal</em> civil defense air raid siren,that goes off every fucking night like it's pearl harbor.",
+            "sen_tran": "而是夜夜都像珍珠港一样鸣笛的,夜间民防空袭警报",
+            "pic_url": "./pic/nocturnal-0.jpg",
+            "pron_url": "./audio/nocturnal-0.mp3"
+        },
+        {
+            "origin": "来自《侠胆雄狮 第1季》",
+            "sen": "I mean, you're like Mr. <em>Nocturnal</em> Guy, right?",
+            "sen_tran": "你就像夜行人一样 对吧",
+            "pic_url": "./pic/nocturnal-1.jpg",
+            "pron_url": "./audio/nocturnal-1.mp3"
+        },
+        {
+            "origin": "来自《狂野目标》",
+            "sen": "A great many people experience fits of <em>nocturnal</em> anxiety.",
+            "sen_tran": "很多人在夜晚都会焦虑",
+            "pic_url": "./pic/nocturnal-2.jpg",
+            "pron_url": "./audio/nocturnal-2.mp3"
+        },
+        {
+            "origin": "来自《行动目标希特勒》",
+            "sen": "Your <em>nocturnal</em> activities don't count as service to the Reich.",
+            "sen_tran": "你的夜间活动不能算作是为德国效力",
+            "pic_url": "./pic/nocturnal-3.jpg",
+            "pron_url": "./audio/nocturnal-3.mp3"
+        },
+        {
+            "origin": "来自《新闻编辑室 第3季 第1集》",
+            "sen": "Neal, tell us what's going on with the <em>nocturnal</em> nut brigade.",
+            "sen_tran": "尼尔 夜行傻子队情况如何[指网络平民侦探队]",
+            "pic_url": "./pic/nocturnal-4.jpg",
+            "pron_url": "./audio/nocturnal-4.mp3"
+        }
+    ]
+},
+{
+    "word": "nocturne",
+    "am_phonetic": "/'nɑktɝn/",
+    "en_phonetic": "/'nɒktɜːn/",
+    "tran": [
+        {
+            "n": "夜曲；夜景；夜景画"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "nod",
+    "am_phonetic": "/nɑd/",
+    "en_phonetic": "/nɒd/",
+    "tran": [
+        {
+            "n": "点头；打盹；摆动"
+        },
+        {
+            "vt": "点头；点头表示"
+        },
+        {
+            "vi": "点头；打盹；摆动"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《打工姐妹花 第3季 第2集》",
+            "sen": "Han, <em>nod</em> your head and don't ask why.",
+            "sen_tran": "阿憨 别问原因快点头",
+            "pic_url": "./pic/nod-0.jpg",
+            "pron_url": "./audio/nod-0.mp3"
+        },
+        {
+            "origin": "来自《熟女镇 第1季 第8集》",
+            "sen": "Did you just give him the \"hit that\" <em>nod</em>?",
+            "sen_tran": "你是不是点头告诉他\"请自便\"",
+            "pic_url": "./pic/nod-1.jpg",
+            "pron_url": "./audio/nod-1.mp3"
+        },
+        {
+            "origin": "来自《囚徒》",
+            "sen": "Can you <em>nod</em> your head for us, please? Joy?",
+            "sen_tran": "能为我们点点头吗 求你了 乔伊",
+            "pic_url": "./pic/nod-2.jpg",
+            "pron_url": "./audio/nod-2.mp3"
+        },
+        {
+            "origin": "来自《熟女镇 第1季 第23集》",
+            "sen": "I can do that. I'll just <em>nod</em> a lot.",
+            "sen_tran": "没问题 我只管不停点头就是了",
+            "pic_url": "./pic/nod-3.jpg",
+            "pron_url": "./audio/nod-3.mp3"
+        },
+        {
+            "origin": "来自《达格南制造》",
+            "sen": "Above all, if I <em>nod</em>, you nod. Got that?",
+            "sen_tran": "总之 我点头 你就点头 明白?",
+            "pic_url": "./pic/nod-4.jpg",
+            "pron_url": "./audio/nod-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：1945年后的美国小说 第9集》",
+            "sen": "you get another <em>nod</em> to Melville, Cereno ships,(Benito Cereno is one of Melville's famous novels).",
+            "sen_tran": "你会欣然赞许梅尔维尔 切莱诺之船,《贝尼托·切莱诺》是梅尔维尔最出名的小说之一",
+            "pic_url": "./pic/nod-5.jpg",
+            "pron_url": "./audio/nod-5.mp3"
+        }
+    ]
+},
+{
+    "word": "nod",
+    "am_phonetic": "/nɑd/",
+    "en_phonetic": "/nɒd/",
+    "tran": [
+        {
+            "n": "点头；打盹；摆动"
+        },
+        {
+            "vt": "点头；点头表示"
+        },
+        {
+            "vi": "点头；打盹；摆动"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《打工姐妹花 第3季 第2集》",
+            "sen": "Han, <em>nod</em> your head and don't ask why.",
+            "sen_tran": "阿憨 别问原因快点头",
+            "pic_url": "./pic/nod-0.jpg",
+            "pron_url": "./audio/nod-0.mp3"
+        },
+        {
+            "origin": "来自《熟女镇 第1季 第8集》",
+            "sen": "Did you just give him the \"hit that\" <em>nod</em>?",
+            "sen_tran": "你是不是点头告诉他\"请自便\"",
+            "pic_url": "./pic/nod-1.jpg",
+            "pron_url": "./audio/nod-1.mp3"
+        },
+        {
+            "origin": "来自《囚徒》",
+            "sen": "Can you <em>nod</em> your head for us, please? Joy?",
+            "sen_tran": "能为我们点点头吗 求你了 乔伊",
+            "pic_url": "./pic/nod-2.jpg",
+            "pron_url": "./audio/nod-2.mp3"
+        },
+        {
+            "origin": "来自《熟女镇 第1季 第23集》",
+            "sen": "I can do that. I'll just <em>nod</em> a lot.",
+            "sen_tran": "没问题 我只管不停点头就是了",
+            "pic_url": "./pic/nod-3.jpg",
+            "pron_url": "./audio/nod-3.mp3"
+        },
+        {
+            "origin": "来自《达格南制造》",
+            "sen": "Above all, if I <em>nod</em>, you nod. Got that?",
+            "sen_tran": "总之 我点头 你就点头 明白?",
+            "pic_url": "./pic/nod-4.jpg",
+            "pron_url": "./audio/nod-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：1945年后的美国小说 第9集》",
+            "sen": "you get another <em>nod</em> to Melville, Cereno ships,(Benito Cereno is one of Melville's famous novels).",
+            "sen_tran": "你会欣然赞许梅尔维尔 切莱诺之船,《贝尼托·切莱诺》是梅尔维尔最出名的小说之一",
+            "pic_url": "./pic/nod-5.jpg",
+            "pron_url": "./audio/nod-5.mp3"
+        }
+    ]
+},
+{
+    "word": "nodal",
+    "am_phonetic": "/'nodl/",
+    "en_phonetic": "/'nəʊdəl/",
+    "tran": [
+        {
+            "adj": "节的；结的；节似的"
+        },
+        {
+            "n": "(Nodal)人名；(德、西)诺达尔"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "noddle",
+    "am_phonetic": "/'nɑdl/",
+    "en_phonetic": "/'nɒd(ə)l/",
+    "tran": [
+        {
+            "n": "头；脑袋"
+        },
+        {
+            "vt": "点头"
+        },
+        {
+            "vi": "点头"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "prickly",
+    "am_phonetic": "//",
+    "en_phonetic": "/'prɪklɪ/",
+    "tran": [
+        {
+            "adj": "多刺的；刺痛的；易动怒的"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《热血警探》",
+            "sen": "Oh, yeah, he was a <em>prickly</em> customer, werert he?",
+            "sen_tran": "那他身上的刺还有够多的",
+            "pic_url": "./pic/prickly-0.jpg",
+            "pron_url": "./audio/prickly-0.mp3"
+        },
+        {
+            "origin": "来自《马男波杰克 第1季 第3集》",
+            "sen": "Why aren't you dressed for school, <em>prickly</em> muffin?",
+            "sen_tran": "你怎么还不穿衣服准备去学校 刺松饼",
+            "pic_url": "./pic/prickly-1.jpg",
+            "pron_url": "./audio/prickly-1.mp3"
+        },
+        {
+            "origin": "来自《瑜珈熊》",
+            "sen": "Well l was thinking about the park's <em>prickly</em> predicament...",
+            "sen_tran": "考虑到公园艰难的处境",
+            "pic_url": "./pic/prickly-2.jpg",
+            "pron_url": "./audio/prickly-2.mp3"
+        }
+    ]
+},
+{
+    "word": "prickly heat",
+    "am_phonetic": "//",
+    "en_phonetic": "//",
+    "tran": [
+        {
+            "n": "痱子"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "prickly pear",
+    "am_phonetic": "//",
+    "en_phonetic": "//",
+    "tran": [
+        {
+            "": "仙人掌果"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "pricy",
+    "am_phonetic": "//",
+    "en_phonetic": "/'praɪsɪ/",
+    "tran": [
+        {
+            "adj": "价格高的；昂贵的"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《灵书妙探 第6季 第19集》",
+            "sen": "A <em>pricy</em> necklace or... oh, a bunch of cash,taped to his chest like \"Wolf of Wall Street.\"",
+            "sen_tran": "价值连城的项链 或者像《华尔街之狼》那样,找贴在他胸前的一堆现金",
+            "pic_url": "./pic/pricy-0.jpg",
+            "pron_url": "./audio/pricy-0.mp3"
+        },
+        {
+            "origin": "来自《熟女镇 第4季 第14集》",
+            "sen": "And if they're too <em>pricy</em>, is there some sort of,hole-in-the-fence situation where we can watch for free?",
+            "sen_tran": "如果票价非常贵,是不是包括免费看某些限制级镜头呢",
+            "pic_url": "./pic/pricy-1.jpg",
+            "pron_url": "./audio/pricy-1.mp3"
+        },
+        {
+            "origin": "来自《好汉两个半 第12季 第12集》",
+            "sen": "Is it the restaurant? It's not too <em>pricy</em>, is it?",
+            "sen_tran": "是这家餐馆吗 其实这里不贵",
+            "pic_url": "./pic/pricy-2.jpg",
+            "pron_url": "./audio/pricy-2.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：博弈论 第1集》",
+            "sen": "and they could put this contract in with the <em>pricy</em> lawyer,who's taking a day off from the divorce court,",
+            "sen_tran": "然后可以找个刚处理完离婚纠纷的,著名律师来作见证人",
+            "pic_url": "./pic/pricy-3.jpg",
+            "pron_url": "./audio/pricy-3.mp3"
+        }
+    ]
+},
+{
+    "word": "pride",
+    "am_phonetic": "/praɪd/",
+    "en_phonetic": "/praɪd/",
+    "tran": [
+        {
+            "n": "自豪；骄傲；自尊心"
+        },
+        {
+            "vt": "使得意，以…自豪"
+        },
+        {
+            "vi": "自豪"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《恋爱手册 第1季 第3集》",
+            "sen": "Have a little <em>pride</em> in what you do.",
+            "sen_tran": "以你的工作为骄傲",
+            "pic_url": "./pic/pride-0.jpg",
+            "pron_url": "./audio/pride-0.mp3"
+        },
+        {
+            "origin": "来自《新飞跃比弗利 第3季 第22集》",
+            "sen": "to take <em>pride</em> in what you have earned.",
+            "sen_tran": "为你们自豪吧",
+            "pic_url": "./pic/pride-1.jpg",
+            "pron_url": "./audio/pride-1.mp3"
+        },
+        {
+            "origin": "来自《24小时 第8季 第22集》",
+            "sen": "I <em>pride</em> myself on being a good judge of character.",
+            "sen_tran": "我自负很会看人",
+            "pic_url": "./pic/pride-2.jpg",
+            "pron_url": "./audio/pride-2.mp3"
+        },
+        {
+            "origin": "来自《新飞跃比弗利 第4季 第10集》",
+            "sen": "And it's all your fault, because of your-your male <em>pride</em>,and your weak cell phone signal and your illicit narcotics",
+            "sen_tran": "全是你的错 都是因为你那男人的臭自尊,还有你那破手机信号和违禁药品",
+            "pic_url": "./pic/pride-3.jpg",
+            "pron_url": "./audio/pride-3.mp3"
+        },
+        {
+            "origin": "来自《公元：《圣经故事》后传 第10集》",
+            "sen": "And, forgive my <em>pride</em>, but I'm also a Rabbi.",
+            "sen_tran": "此外原谅我如此自矜 我毕竟也是拉比",
+            "pic_url": "./pic/pride-4.jpg",
+            "pron_url": "./audio/pride-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：聆听音乐 第17集》",
+            "sen": "Well, they had African American country singer Charlie <em>Pride</em> there,and he had something to say.",
+            "sen_tran": "那有非裔美国乡村歌手查理·普莱德,有他说的话",
+            "pic_url": "./pic/pride-5.jpg",
+            "pron_url": "./audio/pride-5.mp3"
+        }
+    ]
+},
+{
+    "word": "pride",
+    "am_phonetic": "/praɪd/",
+    "en_phonetic": "/praɪd/",
+    "tran": [
+        {
+            "n": "自豪；骄傲；自尊心"
+        },
+        {
+            "vt": "使得意，以…自豪"
+        },
+        {
+            "vi": "自豪"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《恋爱手册 第1季 第3集》",
+            "sen": "Have a little <em>pride</em> in what you do.",
+            "sen_tran": "以你的工作为骄傲",
+            "pic_url": "./pic/pride-0.jpg",
+            "pron_url": "./audio/pride-0.mp3"
+        },
+        {
+            "origin": "来自《新飞跃比弗利 第3季 第22集》",
+            "sen": "to take <em>pride</em> in what you have earned.",
+            "sen_tran": "为你们自豪吧",
+            "pic_url": "./pic/pride-1.jpg",
+            "pron_url": "./audio/pride-1.mp3"
+        },
+        {
+            "origin": "来自《24小时 第8季 第22集》",
+            "sen": "I <em>pride</em> myself on being a good judge of character.",
+            "sen_tran": "我自负很会看人",
+            "pic_url": "./pic/pride-2.jpg",
+            "pron_url": "./audio/pride-2.mp3"
+        },
+        {
+            "origin": "来自《新飞跃比弗利 第4季 第10集》",
+            "sen": "And it's all your fault, because of your-your male <em>pride</em>,and your weak cell phone signal and your illicit narcotics",
+            "sen_tran": "全是你的错 都是因为你那男人的臭自尊,还有你那破手机信号和违禁药品",
+            "pic_url": "./pic/pride-3.jpg",
+            "pron_url": "./audio/pride-3.mp3"
+        },
+        {
+            "origin": "来自《公元：《圣经故事》后传 第10集》",
+            "sen": "And, forgive my <em>pride</em>, but I'm also a Rabbi.",
+            "sen_tran": "此外原谅我如此自矜 我毕竟也是拉比",
+            "pic_url": "./pic/pride-4.jpg",
+            "pron_url": "./audio/pride-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：聆听音乐 第17集》",
+            "sen": "Well, they had African American country singer Charlie <em>Pride</em> there,and he had something to say.",
+            "sen_tran": "那有非裔美国乡村歌手查理·普莱德,有他说的话",
+            "pic_url": "./pic/pride-5.jpg",
+            "pron_url": "./audio/pride-5.mp3"
+        }
+    ]
+},
+{
+    "word": "sell-by date",
+    "am_phonetic": "//",
+    "en_phonetic": "//",
+    "tran": [
+        {
+            "n": "最迟销售日期"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "seller",
+    "am_phonetic": "/'sɛlɚ/",
+    "en_phonetic": "/'selə/",
+    "tran": [
+        {
+            "n": "卖方，售货员"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《陵园路口》",
+            "sen": "Top <em>seller</em> in three months. Been to three winners balls.",
+            "sen_tran": "三个月成为最佳销售 去三次冠军酒会",
+            "pic_url": "./pic/seller-0.jpg",
+            "pron_url": "./audio/seller-0.mp3"
+        },
+        {
+            "origin": "来自《外星人保罗》",
+            "sen": "the team behind this year's multi-Nebulon-award-winning best <em>seller</em>.",
+            "sen_tran": "荣获今年多项尼布隆奖项的畅销书创作团队",
+            "pic_url": "./pic/seller-1.jpg",
+            "pron_url": "./audio/seller-1.mp3"
+        },
+        {
+            "origin": "来自《恋恋书中人》",
+            "sen": "of The New York Times Best <em>Seller</em> list,uh, for several months.",
+            "sen_tran": "纽约时报畅销书作家榜首,好几个月了",
+            "pic_url": "./pic/seller-2.jpg",
+            "pron_url": "./audio/seller-2.mp3"
+        },
+        {
+            "origin": "来自《失落的大陆》",
+            "sen": "Sixteen weeks on the NY time's best <em>seller</em> list.",
+            "sen_tran": "连续十六周登上纽约时报畅销书榜",
+            "pic_url": "./pic/seller-3.jpg",
+            "pron_url": "./audio/seller-3.mp3"
+        },
+        {
+            "origin": "来自《家园》",
+            "sen": "When trade is fair, when both buyer and <em>seller</em> benefit,Everybody can prosper and earn a decent living.",
+            "sen_tran": "交易公平 买卖双方都受益,每个人都能过上富裕的生活",
+            "pic_url": "./pic/seller-4.jpg",
+            "pron_url": "./audio/seller-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：资本主义：成功、危机与改革 第3集》",
+            "sen": "no <em>seller</em> and no buyer able to control prices.",
+            "sen_tran": "不能有任何卖家或买家有控制物价的能力",
+            "pic_url": "./pic/seller-5.jpg",
+            "pron_url": "./audio/seller-5.mp3"
+        }
+    ]
+},
+{
+    "word": "seller's market",
+    "am_phonetic": "//",
+    "en_phonetic": "//",
+    "tran": [
+        {
+            "n": "卖方市场"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "selling",
+    "am_phonetic": "/'sɛlɪŋ/",
+    "en_phonetic": "/'selɪŋ/",
+    "tran": [
+        {
+            "": "原型 "
+        },
+        {
+            "": " "
+        },
+        {
+            "n": "销售；出售"
+        },
+        {
+            "v": "出售（sell的现在分词形式）"
+        },
+        {
+            "": "原型释义："
+        },
+        {
+            "vt": "销售；推销；出卖；欺骗"
+        },
+        {
+            "vi": "卖；出售；受欢迎；有销路"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《新飞跃比弗利 第5季 第12集》",
+            "sen": "I was this close to <em>selling</em> fries, like you,except from behind the cash register with a tacky",
+            "sen_tran": "我差一点就要去卖薯条了 和你一样,不同的是我得站在收银台后面 穿着俗气的",
+            "pic_url": "./pic/selling-0.jpg",
+            "pron_url": "./audio/selling-0.mp3"
+        },
+        {
+            "origin": "来自《美国恐怖故事 第1季 第12集》",
+            "sen": "I'm sure the estate is open to <em>selling</em>,at the right price.",
+            "sen_tran": "我想这些家具也是可以,适价出售的",
+            "pic_url": "./pic/selling-1.jpg",
+            "pron_url": "./audio/selling-1.mp3"
+        },
+        {
+            "origin": "来自《家有正太 第2季 第2集》",
+            "sen": "You know, you're moving out, you're <em>selling</em> your place.",
+            "sen_tran": "你要搬走了 要把自己的房子卖掉了",
+            "pic_url": "./pic/selling-2.jpg",
+            "pron_url": "./audio/selling-2.mp3"
+        },
+        {
+            "origin": "来自《新飞跃比弗利 第3季 第22集》",
+            "sen": "Just hopefully not the Beverly Center <em>selling</em> jeans.",
+            "sen_tran": "但愿不是去比弗里中心卖牛仔裤就好",
+            "pic_url": "./pic/selling-3.jpg",
+            "pron_url": "./audio/selling-3.mp3"
+        },
+        {
+            "origin": "来自《24小时 第8季 第6集》",
+            "sen": "They're planning on <em>selling</em> them on the open market.",
+            "sen_tran": "他们打算在黑市上公开销售",
+            "pic_url": "./pic/selling-4.jpg",
+            "pron_url": "./audio/selling-4.mp3"
+        },
+        {
+            "origin": "来自《哈佛大学公共课-公正：该如何做是好》",
+            "sen": "But you're saying that sperm <em>selling</em> and baby <em>selling</em> or even surrogacy,are very different because...",
+            "sen_tran": "但你说精子交易和婴儿交易甚至代孕,是大相径庭的 因为...",
+            "pic_url": "./pic/selling-5.jpg",
+            "pron_url": "./audio/selling-5.mp3"
+        }
+    ]
+},
+{
+    "word": "selling price",
+    "am_phonetic": "//",
+    "en_phonetic": "//",
+    "tran": [
+        {
+            "": "卖价"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "sell-off",
+    "am_phonetic": "//",
+    "en_phonetic": "//",
+    "tran": [
+        {
+            "n": "证券的跌价"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《华尔街：金钱永不眠》",
+            "sen": "It's triggering a major <em>sell-off</em> in the markets.",
+            "sen_tran": "引起了市场上的大量抛售",
+            "pic_url": "./pic/sell-off-0.jpg",
+            "pron_url": "./audio/sell-off-0.mp3"
+        }
+    ]
+},
+{
+    "word": "Sellotape",
+    "am_phonetic": "/'sɛlətep/",
+    "en_phonetic": "/'seləʊteɪp/",
+    "tran": [
+        {
+            "n": "透明胶带，塑料胶带（商标名称）"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "Sellotape",
+    "am_phonetic": "/'sɛlətep/",
+    "en_phonetic": "/'seləʊteɪp/",
+    "tran": [
+        {
+            "n": "透明胶带，塑料胶带（商标名称）"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "Sellotape",
+    "am_phonetic": "/'sɛlətep/",
+    "en_phonetic": "/'seləʊteɪp/",
+    "tran": [
+        {
+            "n": "透明胶带，塑料胶带（商标名称）"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "sell-out",
+    "am_phonetic": "//",
+    "en_phonetic": "//",
+    "tran": [
+        {
+            "n": "（演出、体育比赛的）票已售完"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《大象的眼泪》",
+            "sen": "We got ourselves a guaranteed <em>sell-out</em>, crowd-cheering bull!",
+            "sen_tran": "这大象保证让我们戏票大卖 观众爆满",
+            "pic_url": "./pic/sell-out-0.jpg",
+            "pron_url": "./audio/sell-out-0.mp3"
+        }
+    ]
+},
+{
+    "word": "Seltzer",
+    "am_phonetic": "/'sɛltzɚ/",
+    "en_phonetic": "/'seltzə/",
+    "tran": [
+        {
+            "n": "德国赛尔脱兹的天然汽泡矿泉水；苏打水"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《定制伴郎》",
+            "sen": "Because you left in March. Red-hot pussy <em>seltzer</em>.",
+            "sen_tran": "因为你三月份就离开了 炙热阴道苏打水",
+            "pic_url": "./pic/Seltzer-0.jpg",
+            "pron_url": "./audio/Seltzer-0.mp3"
+        }
+    ]
+},
+{
+    "word": "selvedge",
+    "am_phonetic": "//",
+    "en_phonetic": "/'sɛlvɪdʒ/",
+    "tran": [
+        {
+            "": "原型 "
+        },
+        {
+            "": " "
+        },
+        {
+            "n": "镶边；布等的织边"
+        },
+        {
+            "": "原型释义："
+        },
+        {
+            "adj": "有织边的"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "semantic",
+    "am_phonetic": "/sɪ'mæntɪk/",
+    "en_phonetic": "/sɪ'mæntɪk/",
+    "tran": [
+        {
+            "adj": "语义的；语义学的（等于semantical）"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《耶鲁大学开放课程：心理学导论》",
+            "sen": "There's a distinction between <em>semantic</em> memory and episodic memory.",
+            "sen_tran": "语义记忆与情景记忆之间也是有区别的",
+            "pic_url": "./pic/semantic-0.jpg",
+            "pron_url": "./audio/semantic-0.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：金融市场 第26集》",
+            "sen": "That it turns out to be a matter of <em>semantic</em> ambiguity--,how to think about a financial crisis recession",
+            "sen_tran": "如何在简单的宏观经济模型下,考虑金融危机型经济衰退",
+            "pic_url": "./pic/semantic-1.jpg",
+            "pron_url": "./audio/semantic-1.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：聆听音乐 第21集》",
+            "sen": "where the meaning comes not from any kind of logical <em>semantic</em>,no--syntactical presentation of ideas,",
+            "sen_tran": "其中心思想不是由逻辑语言表示的,它不是按句法表达概念",
+            "pic_url": "./pic/semantic-2.jpg",
+            "pron_url": "./audio/semantic-2.mp3"
+        }
+    ]
+},
+{
+    "word": "semantically",
+    "am_phonetic": "//",
+    "en_phonetic": "/si'mæntikəli/",
+    "tran": [
+        {
+            "adv": "语义地"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "semantically",
+    "am_phonetic": "//",
+    "en_phonetic": "/si'mæntikəli/",
+    "tran": [
+        {
+            "adv": "语义地"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "syrupy",
+    "am_phonetic": "/'sɪrəpi/",
+    "en_phonetic": "/'sɪrəpi/",
+    "tran": [
+        {
+            "adj": "糖浆的；糖浆似的"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "system",
+    "am_phonetic": "/'sɪstəm/",
+    "en_phonetic": "/'sɪstəm/",
+    "tran": [
+        {
+            "n": "制度，体制；系统；方法"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《灵书妙探 第3季 第6集》",
+            "sen": "- It's part of my <em>system</em>. - Your <em>system</em> is dumb.",
+            "sen_tran": "-那是我的一种摆放方式 -那太蠢了",
+            "pic_url": "./pic/system-0.jpg",
+            "pron_url": "./audio/system-0.mp3"
+        },
+        {
+            "origin": "来自《家有正太 第2季 第3集》",
+            "sen": "This three Bs party is going to cleanse my <em>system</em>.",
+            "sen_tran": "这个3B派对会清洁我的整个系统",
+            "pic_url": "./pic/system-1.jpg",
+            "pron_url": "./audio/system-1.mp3"
+        },
+        {
+            "origin": "来自《新飞跃比弗利 第3季 第16集》",
+            "sen": "I couldn't believe you had no backup <em>system</em>.",
+            "sen_tran": "真不敢相信 你竟然没有备用系统",
+            "pic_url": "./pic/system-2.jpg",
+            "pron_url": "./audio/system-2.mp3"
+        },
+        {
+            "origin": "来自《殊途同归 第1季 第3集》",
+            "sen": "Now. How old do you think our solar <em>system</em> is?",
+            "sen_tran": "大家觉得太阳系形成有多少年了",
+            "pic_url": "./pic/system-3.jpg",
+            "pron_url": "./audio/system-3.mp3"
+        },
+        {
+            "origin": "来自《美国恐怖故事 第2季 第11集》",
+            "sen": "that your son is not swallowed by the <em>system</em>,but I will also do everything in my power",
+            "sen_tran": "你的儿子不被机构收养,我还会尽我所能",
+            "pic_url": "./pic/system-4.jpg",
+            "pron_url": "./audio/system-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：心理学导论 第5集》",
+            "sen": "but the learning pattern varies from <em>system</em> to <em>system</em>,and there's a separateness to them.",
+            "sen_tran": "但学习模式因系统的不同而有所变化,它们之间也是相互独立的",
+            "pic_url": "./pic/system-5.jpg",
+            "pron_url": "./audio/system-5.mp3"
+        }
+    ]
+},
+{
+    "word": "system administrator",
+    "am_phonetic": "//",
+    "en_phonetic": "//",
+    "tran": [
+        {
+            "": "系统管理员"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "systematic",
+    "am_phonetic": "/'sɪstə'mætɪk/",
+    "en_phonetic": "/sɪstə'mætɪk/",
+    "tran": [
+        {
+            "adj": "系统的；体系的；有系统的；[图情] 分类的；一贯的，惯常的"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《犯罪现场调查 第13季 第10集》",
+            "sen": "It is, after all, a <em>systematic</em> pursuit of knowledge, right?",
+            "sen_tran": "它毕竟是对知识的系统追求 对吧",
+            "pic_url": "./pic/systematic-0.jpg",
+            "pron_url": "./audio/systematic-0.mp3"
+        },
+        {
+            "origin": "来自《古迹卫士》",
+            "sen": "So now we know it's not random, it's <em>systematic</em>.",
+            "sen_tran": "我们现在知道这不是偶然 是有计划的",
+            "pic_url": "./pic/systematic-1.jpg",
+            "pron_url": "./audio/systematic-1.mp3"
+        },
+        {
+            "origin": "来自《犯罪现场调查 第13季 第10集》",
+            "sen": "Well, if you ever need a little <em>systematic</em> pursuit of knowledge,you know where to find me.",
+            "sen_tran": "什么时候用得上\"对知识的系统追求\"了,就来找我",
+            "pic_url": "./pic/systematic-2.jpg",
+            "pron_url": "./audio/systematic-2.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：有关食物的心理学、生物学和政治学 第23集》",
+            "sen": "and does something <em>systematic</em> so that parents may get together,in a given school, change things in the schools,",
+            "sen_tran": "做些系统的事情从而使家长们能够集中,能够改变学校里的事情",
+            "pic_url": "./pic/systematic-3.jpg",
+            "pron_url": "./audio/systematic-3.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：环境政治与法律 第2集》",
+            "sen": "But these laws evolved not in a <em>systematic</em> way.",
+            "sen_tran": "但是这些法律的形成并不系统",
+            "pic_url": "./pic/systematic-4.jpg",
+            "pron_url": "./audio/systematic-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：生物医学工程探索 第14集》",
+            "sen": "and it goes through a very <em>systematic</em> cycle.",
+            "sen_tran": "这一周期是一个有条不紊的循环过程",
+            "pic_url": "./pic/systematic-5.jpg",
+            "pron_url": "./audio/systematic-5.mp3"
+        }
+    ]
+},
+{
+    "word": "systematically",
+    "am_phonetic": "/,sɪstə'mætɪkl/",
+    "en_phonetic": "/,sɪstə'mætɪklɪ/",
+    "tran": [
+        {
+            "adv": "有系统地；有组织地"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《侏罗纪公园》",
+            "sen": "They were testing the fences for weaknesses <em>systematically</em>.",
+            "sen_tran": "它们系统地侦测护篱薄弱处",
+            "pic_url": "./pic/systematically-0.jpg",
+            "pron_url": "./audio/systematically-0.mp3"
+        },
+        {
+            "origin": "来自《大西洋帝国 第4季 第10集》",
+            "sen": "he and his ilk are <em>systematically</em> driving down,the price of Anaconda Realty stock,",
+            "sen_tran": "他和他的家族正在有组织地,拉低水蟒房地产信托的股价",
+            "pic_url": "./pic/systematically-1.jpg",
+            "pron_url": "./audio/systematically-1.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：金融市场 第21集》",
+            "sen": "in fact, it would generally be <em>systematically</em> different.",
+            "sen_tran": "实际上 两个汇率一般会有区别",
+            "pic_url": "./pic/systematically-2.jpg",
+            "pron_url": "./audio/systematically-2.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：现代社会理论基础 第25集》",
+            "sen": "in which certain acts are <em>systematically</em> punished by that society,I can say in this society,",
+            "sen_tran": "对某个行为有系统的惩罚措施,我可以说 在这个社会中",
+            "pic_url": "./pic/systematically-3.jpg",
+            "pron_url": "./audio/systematically-3.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：基础物理 第3集》",
+            "sen": "Let's get that <em>systematically</em> by using free-body diagrams.",
+            "sen_tran": "让我们系统地用隔离法来分析一下",
+            "pic_url": "./pic/systematically-4.jpg",
+            "pron_url": "./audio/systematically-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：心理学导论 第5集》",
+            "sen": "he <em>systematically</em> underestimated what children and babies know.",
+            "sen_tran": "而系统地低估了婴幼儿的理解能力",
+            "pic_url": "./pic/systematically-5.jpg",
+            "pron_url": "./audio/systematically-5.mp3"
+        }
+    ]
+},
+{
+    "word": "watchtower",
+    "am_phonetic": "/'wɔtʃ,taʊr/",
+    "en_phonetic": "/'wɒtʃtaʊə/",
+    "tran": [
+        {
+            "n": "瞭望塔，岗楼"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《银河护卫队》",
+            "sen": "we're gonna need to get into that <em>watchtower</em>.",
+            "sen_tran": "得设法进到那边的瞭望塔里",
+            "pic_url": "./pic/watchtower-0.jpg",
+            "pron_url": "./audio/watchtower-0.mp3"
+        }
+    ]
+},
+{
+    "word": "watchword",
+    "am_phonetic": "/'wɑtʃwɝd/",
+    "en_phonetic": "/'wɒtʃwɜːd/",
+    "tran": [
+        {
+            "n": "口号；标语；口令；暗号"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "water",
+    "am_phonetic": "/ˈwɔtɚ; ˈwɑtɚ/",
+    "en_phonetic": "/'wɔːtə/",
+    "tran": [
+        {
+            "n": "水；海水；雨水；海域，大片的水"
+        },
+        {
+            "vt": "使湿；供以水；给…浇水"
+        },
+        {
+            "vi": "加水；流泪；流口水"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《开心汉堡店 第4季 第7集》",
+            "sen": "Hotter <em>water</em>. I got to get hotter <em>water</em> on this.",
+            "sen_tran": "水要再热点 水要再热点才行",
+            "pic_url": "./pic/water-0.jpg",
+            "pron_url": "./audio/water-0.mp3"
+        },
+        {
+            "origin": "来自《废柴联盟 第2季 第22集》",
+            "sen": "Um, did you break <em>water</em>? Is that broken <em>water</em>?",
+            "sen_tran": "你的羊水是不是破了 那是不是羊水啊",
+            "pic_url": "./pic/water-1.jpg",
+            "pron_url": "./audio/water-1.mp3"
+        },
+        {
+            "origin": "来自《老友记 第1季 第23集》",
+            "sen": "<em>Water</em> breaking? What do you mean? What's that, <em>water</em> breaking?",
+            "sen_tran": "羊水破了？什么意思？ 那是什么？",
+            "pic_url": "./pic/water-2.jpg",
+            "pron_url": "./audio/water-2.mp3"
+        },
+        {
+            "origin": "来自《动物总动员》",
+            "sen": "He is gonna bring us <em>water</em> from the <em>water</em> hole!",
+            "sen_tran": "他会从水源给我们带水回来",
+            "pic_url": "./pic/water-3.jpg",
+            "pron_url": "./audio/water-3.mp3"
+        },
+        {
+            "origin": "来自《驯龙高手》",
+            "sen": "There's this <em>water</em> dragon that sprays boiling <em>water</em> at your face,And there's this other one that buries itself for like a week...",
+            "sen_tran": "上面说水龙会把沸水喷射到你脸上,还说有一种龙能把自己埋上一周",
+            "pic_url": "./pic/water-4.jpg",
+            "pron_url": "./audio/water-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：生物医学工程探索 第20集》",
+            "sen": "it's soft tissue but it's also filled with <em>water</em>, a lot of <em>water</em>.",
+            "sen_tran": "它是软组织 不过却被很多液体填满",
+            "pic_url": "./pic/water-5.jpg",
+            "pron_url": "./audio/water-5.mp3"
+        }
+    ]
+},
+{
+    "word": "water",
+    "am_phonetic": "/ˈwɔtɚ; ˈwɑtɚ/",
+    "en_phonetic": "/'wɔːtə/",
+    "tran": [
+        {
+            "n": "水；海水；雨水；海域，大片的水"
+        },
+        {
+            "vt": "使湿；供以水；给…浇水"
+        },
+        {
+            "vi": "加水；流泪；流口水"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《开心汉堡店 第4季 第7集》",
+            "sen": "Hotter <em>water</em>. I got to get hotter <em>water</em> on this.",
+            "sen_tran": "水要再热点 水要再热点才行",
+            "pic_url": "./pic/water-0.jpg",
+            "pron_url": "./audio/water-0.mp3"
+        },
+        {
+            "origin": "来自《废柴联盟 第2季 第22集》",
+            "sen": "Um, did you break <em>water</em>? Is that broken <em>water</em>?",
+            "sen_tran": "你的羊水是不是破了 那是不是羊水啊",
+            "pic_url": "./pic/water-1.jpg",
+            "pron_url": "./audio/water-1.mp3"
+        },
+        {
+            "origin": "来自《老友记 第1季 第23集》",
+            "sen": "<em>Water</em> breaking? What do you mean? What's that, <em>water</em> breaking?",
+            "sen_tran": "羊水破了？什么意思？ 那是什么？",
+            "pic_url": "./pic/water-2.jpg",
+            "pron_url": "./audio/water-2.mp3"
+        },
+        {
+            "origin": "来自《动物总动员》",
+            "sen": "He is gonna bring us <em>water</em> from the <em>water</em> hole!",
+            "sen_tran": "他会从水源给我们带水回来",
+            "pic_url": "./pic/water-3.jpg",
+            "pron_url": "./audio/water-3.mp3"
+        },
+        {
+            "origin": "来自《驯龙高手》",
+            "sen": "There's this <em>water</em> dragon that sprays boiling <em>water</em> at your face,And there's this other one that buries itself for like a week...",
+            "sen_tran": "上面说水龙会把沸水喷射到你脸上,还说有一种龙能把自己埋上一周",
+            "pic_url": "./pic/water-4.jpg",
+            "pron_url": "./audio/water-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：生物医学工程探索 第20集》",
+            "sen": "it's soft tissue but it's also filled with <em>water</em>, a lot of <em>water</em>.",
+            "sen_tran": "它是软组织 不过却被很多液体填满",
+            "pic_url": "./pic/water-5.jpg",
+            "pron_url": "./audio/water-5.mp3"
+        }
+    ]
+},
+{
+    "word": "water bird",
+    "am_phonetic": "//",
+    "en_phonetic": "//",
+    "tran": [
+        {
+            "": "[鸟] 水鸟；[鸟] 水禽"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "waterboarding",
+    "am_phonetic": "//",
+    "en_phonetic": "//",
+    "tran": [
+        {
+            "n": "水刑"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《远距离爱情》",
+            "sen": "Or <em>waterboarding</em>. I'd love to be waterboarded to death.",
+            "sen_tran": "或者淹死 我想被淹死",
+            "pic_url": "./pic/waterboarding-0.jpg",
+            "pron_url": "./audio/waterboarding-0.mp3"
+        },
+        {
+            "origin": "来自《灵书妙探 第6季 第2集》",
+            "sen": "to the idea of <em>waterboarding</em> the truth out of secretary Reed.",
+            "sen_tran": "对里德部长施水刑 逼他说出实情",
+            "pic_url": "./pic/waterboarding-1.jpg",
+            "pron_url": "./audio/waterboarding-1.mp3"
+        }
+    ]
+},
+{
+    "word": "waterborne",
+    "am_phonetic": "/'wɔtəbɔn/",
+    "en_phonetic": "/'wɔːtəbɔːn/",
+    "tran": [
+        {
+            "adj": "水运的；水传播的；由水浮起的"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "water bottle",
+    "am_phonetic": "//",
+    "en_phonetic": "//",
+    "tran": [
+        {
+            "": "水瓶，水壶"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《打工姐妹花 第2季 第7集》",
+            "sen": "Could you spray me with that <em>water</em> <em>bottle</em>?",
+            "sen_tran": "能用喷水器喷我们身子吗",
+            "pic_url": "./pic/water bottle-0.jpg",
+            "pron_url": "./audio/water bottle-0.mp3"
+        },
+        {
+            "origin": "来自《玛丽和马克思》",
+            "sen": "Warmed Max's bed was his hot <em>water</em> <em>bottle</em>.",
+            "sen_tran": "是他的热水袋",
+            "pic_url": "./pic/water bottle-1.jpg",
+            "pron_url": "./audio/water bottle-1.mp3"
+        },
+        {
+            "origin": "来自《开心汉堡店 第5季 第9集》",
+            "sen": "No. What a crazy <em>water</em> <em>bottle</em>. Oh, whoops.",
+            "sen_tran": "不 这瓶子疯了 哎呀",
+            "pic_url": "./pic/water bottle-2.jpg",
+            "pron_url": "./audio/water bottle-2.mp3"
+        },
+        {
+            "origin": "来自《打工姐妹花 第2季 第7集》",
+            "sen": "I tried to spray it with a <em>water</em> <em>bottle</em>,but it just laughed at us, so we ran.",
+            "sen_tran": "我试着用水瓶喷水吓唬它,但它不屑一笑 我们只好落荒而逃",
+            "pic_url": "./pic/water bottle-3.jpg",
+            "pron_url": "./audio/water bottle-3.mp3"
+        },
+        {
+            "origin": "来自《开心汉堡店 第5季 第9集》",
+            "sen": "Get out of that jumpsuit, get your <em>water</em> <em>bottle</em>,and get back in the pit.",
+            "sen_tran": "脱下你的赛车服 拿起你的水瓶,回休息站去",
+            "pic_url": "./pic/water bottle-4.jpg",
+            "pron_url": "./audio/water bottle-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：有关食物的心理学、生物学和政治学 第3集》",
+            "sen": "without interacting with a <em>water</em> <em>bottle</em> at some point.",
+            "sen_tran": "一整天不带水壶的日子",
+            "pic_url": "./pic/water bottle-5.jpg",
+            "pron_url": "./audio/water bottle-5.mp3"
+        }
+    ]
+},
+{
+    "word": "water boy",
+    "am_phonetic": "//",
+    "en_phonetic": "//",
+    "tran": [
+        {
+            "": "（为工人，足球运动员等）送饮水的小孩；为牲畜供应饮水的人"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《里约大冒险2》",
+            "sen": "Wow! The <em>water</em> <em>boy</em> is suddenly playing like a pro!",
+            "sen_tran": "送水男孩突然表现得十分专业",
+            "pic_url": "./pic/water boy-0.jpg",
+            "pron_url": "./audio/water boy-0.mp3"
+        }
+    ]
+},
+{
+    "word": "water buffalo",
+    "am_phonetic": "//",
+    "en_phonetic": "//",
+    "tran": [
+        {
+            "": "[畜牧][脊椎] 水牛"
+        }
+    ],
+    "example": []
+},

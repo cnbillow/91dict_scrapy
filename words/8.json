@@ -53,3 +53,163 @@
     ],
     "example": []
 },
+{
+    "word": "pricy",
+    "am_phonetic": "//",
+    "en_phonetic": "/'praɪsɪ/",
+    "tran": [
+        {
+            "adj": "价格高的；昂贵的"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《灵书妙探 第6季 第19集》",
+            "sen": "A <em>pricy</em> necklace or... oh, a bunch of cash,taped to his chest like \"Wolf of Wall Street.\"",
+            "sen_tran": "价值连城的项链 或者像《华尔街之狼》那样,找贴在他胸前的一堆现金",
+            "pic_url": "./pic/pricy-0.jpg",
+            "pron_url": "./audio/pricy-0.mp3"
+        },
+        {
+            "origin": "来自《熟女镇 第4季 第14集》",
+            "sen": "And if they're too <em>pricy</em>, is there some sort of,hole-in-the-fence situation where we can watch for free?",
+            "sen_tran": "如果票价非常贵,是不是包括免费看某些限制级镜头呢",
+            "pic_url": "./pic/pricy-1.jpg",
+            "pron_url": "./audio/pricy-1.mp3"
+        },
+        {
+            "origin": "来自《好汉两个半 第12季 第12集》",
+            "sen": "Is it the restaurant? It's not too <em>pricy</em>, is it?",
+            "sen_tran": "是这家餐馆吗 其实这里不贵",
+            "pic_url": "./pic/pricy-2.jpg",
+            "pron_url": "./audio/pricy-2.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：博弈论 第1集》",
+            "sen": "and they could put this contract in with the <em>pricy</em> lawyer,who's taking a day off from the divorce court,",
+            "sen_tran": "然后可以找个刚处理完离婚纠纷的,著名律师来作见证人",
+            "pic_url": "./pic/pricy-3.jpg",
+            "pron_url": "./audio/pricy-3.mp3"
+        }
+    ]
+},
+{
+    "word": "pride",
+    "am_phonetic": "/praɪd/",
+    "en_phonetic": "/praɪd/",
+    "tran": [
+        {
+            "n": "自豪；骄傲；自尊心"
+        },
+        {
+            "vt": "使得意，以…自豪"
+        },
+        {
+            "vi": "自豪"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《恋爱手册 第1季 第3集》",
+            "sen": "Have a little <em>pride</em> in what you do.",
+            "sen_tran": "以你的工作为骄傲",
+            "pic_url": "./pic/pride-0.jpg",
+            "pron_url": "./audio/pride-0.mp3"
+        },
+        {
+            "origin": "来自《新飞跃比弗利 第3季 第22集》",
+            "sen": "to take <em>pride</em> in what you have earned.",
+            "sen_tran": "为你们自豪吧",
+            "pic_url": "./pic/pride-1.jpg",
+            "pron_url": "./audio/pride-1.mp3"
+        },
+        {
+            "origin": "来自《24小时 第8季 第22集》",
+            "sen": "I <em>pride</em> myself on being a good judge of character.",
+            "sen_tran": "我自负很会看人",
+            "pic_url": "./pic/pride-2.jpg",
+            "pron_url": "./audio/pride-2.mp3"
+        },
+        {
+            "origin": "来自《新飞跃比弗利 第4季 第10集》",
+            "sen": "And it's all your fault, because of your-your male <em>pride</em>,and your weak cell phone signal and your illicit narcotics",
+            "sen_tran": "全是你的错 都是因为你那男人的臭自尊,还有你那破手机信号和违禁药品",
+            "pic_url": "./pic/pride-3.jpg",
+            "pron_url": "./audio/pride-3.mp3"
+        },
+        {
+            "origin": "来自《公元：《圣经故事》后传 第10集》",
+            "sen": "And, forgive my <em>pride</em>, but I'm also a Rabbi.",
+            "sen_tran": "此外原谅我如此自矜 我毕竟也是拉比",
+            "pic_url": "./pic/pride-4.jpg",
+            "pron_url": "./audio/pride-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：聆听音乐 第17集》",
+            "sen": "Well, they had African American country singer Charlie <em>Pride</em> there,and he had something to say.",
+            "sen_tran": "那有非裔美国乡村歌手查理·普莱德,有他说的话",
+            "pic_url": "./pic/pride-5.jpg",
+            "pron_url": "./audio/pride-5.mp3"
+        }
+    ]
+},
+{
+    "word": "pride",
+    "am_phonetic": "/praɪd/",
+    "en_phonetic": "/praɪd/",
+    "tran": [
+        {
+            "n": "自豪；骄傲；自尊心"
+        },
+        {
+            "vt": "使得意，以…自豪"
+        },
+        {
+            "vi": "自豪"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《恋爱手册 第1季 第3集》",
+            "sen": "Have a little <em>pride</em> in what you do.",
+            "sen_tran": "以你的工作为骄傲",
+            "pic_url": "./pic/pride-0.jpg",
+            "pron_url": "./audio/pride-0.mp3"
+        },
+        {
+            "origin": "来自《新飞跃比弗利 第3季 第22集》",
+            "sen": "to take <em>pride</em> in what you have earned.",
+            "sen_tran": "为你们自豪吧",
+            "pic_url": "./pic/pride-1.jpg",
+            "pron_url": "./audio/pride-1.mp3"
+        },
+        {
+            "origin": "来自《24小时 第8季 第22集》",
+            "sen": "I <em>pride</em> myself on being a good judge of character.",
+            "sen_tran": "我自负很会看人",
+            "pic_url": "./pic/pride-2.jpg",
+            "pron_url": "./audio/pride-2.mp3"
+        },
+        {
+            "origin": "来自《新飞跃比弗利 第4季 第10集》",
+            "sen": "And it's all your fault, because of your-your male <em>pride</em>,and your weak cell phone signal and your illicit narcotics",
+            "sen_tran": "全是你的错 都是因为你那男人的臭自尊,还有你那破手机信号和违禁药品",
+            "pic_url": "./pic/pride-3.jpg",
+            "pron_url": "./audio/pride-3.mp3"
+        },
+        {
+            "origin": "来自《公元：《圣经故事》后传 第10集》",
+            "sen": "And, forgive my <em>pride</em>, but I'm also a Rabbi.",
+            "sen_tran": "此外原谅我如此自矜 我毕竟也是拉比",
+            "pic_url": "./pic/pride-4.jpg",
+            "pron_url": "./audio/pride-4.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：聆听音乐 第17集》",
+            "sen": "Well, they had African American country singer Charlie <em>Pride</em> there,and he had something to say.",
+            "sen_tran": "那有非裔美国乡村歌手查理·普莱德,有他说的话",
+            "pic_url": "./pic/pride-5.jpg",
+            "pron_url": "./audio/pride-5.mp3"
+        }
+    ]
+},

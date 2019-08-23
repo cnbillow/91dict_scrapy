@@ -51,3 +51,246 @@
     ],
     "example": []
 },
+{
+    "word": "lagging",
+    "am_phonetic": "/'lægɪŋ/",
+    "en_phonetic": "/'lægɪŋ/",
+    "tran": [
+        {
+            "n": "绝缘层材料"
+        },
+        {
+            "adj": "落后的"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《万物理论》",
+            "sen": "Sorry, I'm <em>lagging</em> behind in my pioneering research into,obscure, motor, baseball related diseases.",
+            "sen_tran": "不好意思 神经运动 棒球什么的病,我还没深入研究过",
+            "pic_url": "./pic/lagging-0.jpg",
+            "pron_url": "./audio/lagging-0.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：金融市场 第23集》",
+            "sen": "but remember this is a six-month--it's a <em>lagging</em> six months.",
+            "sen_tran": "因为这里有6个月的滞后",
+            "pic_url": "./pic/lagging-1.jpg",
+            "pron_url": "./audio/lagging-1.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：有关食物的心理学、生物学和政治学 第14集》",
+            "sen": "that is so <em>lagging</em>, Millennium Development Goal Number One.",
+            "sen_tran": "这个首要的千禧年发展目标已经滞后太久",
+            "pic_url": "./pic/lagging-2.jpg",
+            "pron_url": "./audio/lagging-2.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：金融市场 第22集》",
+            "sen": "and they kind of know when the S&amp;P 500 is <em>lagging</em>,and they immediately correct it in the futures price.",
+            "sen_tran": "他们知道什么时候标普500指数落后了,然后立刻在期价上纠正过来",
+            "pic_url": "./pic/lagging-3.jpg",
+            "pron_url": "./audio/lagging-3.mp3"
+        },
+        {
+            "origin": "来自《耶鲁大学开放课程：生物医学工程探索 第24集》",
+            "sen": "Then, <em>lagging</em> behind that by about a period of 30 years,is a dramatic increase in lung cancer.",
+            "sen_tran": "然后在此后的30年,肺癌的有了显著的增长",
+            "pic_url": "./pic/lagging-4.jpg",
+            "pron_url": "./audio/lagging-4.mp3"
+        }
+    ]
+},
+{
+    "word": "lagoon",
+    "am_phonetic": "/lə'gʊn/",
+    "en_phonetic": "/lə'guːn/",
+    "tran": [
+        {
+            "n": "[地理][水文] 泻湖；环礁湖；咸水湖"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《迷失 第5季 第6集》",
+            "sen": "The next thing I know, I'm in the <em>lagoon</em>.",
+            "sen_tran": "接下来就发现 我在湖里",
+            "pic_url": "./pic/lagoon-0.jpg",
+            "pron_url": "./audio/lagoon-0.mp3"
+        }
+    ]
+},
+{
+    "word": "laid-back",
+    "am_phonetic": "//",
+    "en_phonetic": "/'leidbæk/",
+    "tran": [],
+    "example": [
+        {
+            "origin": "来自《预产期》",
+            "sen": "This one, this is a <em>laid-back</em> guy with a Hawaiian shirt...",
+            "sen_tran": "这张 是个穿着夏威夷衬衫的休闲男",
+            "pic_url": "./pic/laid-back-0.jpg",
+            "pron_url": "./audio/laid-back-0.mp3"
+        }
+    ]
+},
+{
+    "word": "lain",
+    "am_phonetic": "/len/",
+    "en_phonetic": "/leɪn/",
+    "tran": [
+        {
+            "": "原型 "
+        },
+        {
+            "": " "
+        },
+        {
+            "": " "
+        },
+        {
+            "": " "
+        },
+        {
+            "v": "躺，位于（lie的过去分词）"
+        },
+        {
+            "n": "(Lain)人名；(英、法、捷)莱恩"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《恋爱手册 第1季 第12集》",
+            "sen": "that had <em>lain</em> dormant for far too long.",
+            "sen_tran": "沉睡已久的火焰",
+            "pic_url": "./pic/lain-0.jpg",
+            "pron_url": "./audio/lain-0.mp3"
+        },
+        {
+            "origin": "来自《白雪公主与猎人》",
+            "sen": "She killed my brave <em>Lain</em> with just the palm of her hand,and then she drew a dagger from her side with no blood.",
+            "sen_tran": "她用一只手就杀了我勇敢的儿子里恩,然后还从身上拔下一只匕首 毫发未损",
+            "pic_url": "./pic/lain-1.jpg",
+            "pron_url": "./audio/lain-1.mp3"
+        }
+    ]
+},
+{
+    "word": "lair",
+    "am_phonetic": "/lɛr/",
+    "en_phonetic": "/leə/",
+    "tran": [
+        {
+            "n": "（野兽的）[动] 巢穴；躲藏处"
+        },
+        {
+            "vi": "进入兽穴；在穴中休息"
+        },
+        {
+            "vt": "使陷入泥潭；放于穴中"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《亚特兰蒂斯 第1季 第8集》",
+            "sen": "It is to be found in Campe's <em>lair</em> in Hades.",
+            "sen_tran": "在哈迪斯的坎普的洞穴里",
+            "pic_url": "./pic/lair-0.jpg",
+            "pron_url": "./audio/lair-0.mp3"
+        },
+        {
+            "origin": "来自《豚鼠特工队》",
+            "sen": "You infiltrated the bad guy's <em>lair</em>. Where is he?",
+            "sen_tran": "你深入到敌人的巢穴来了啊 他在哪里",
+            "pic_url": "./pic/lair-1.jpg",
+            "pron_url": "./audio/lair-1.mp3"
+        },
+        {
+            "origin": "来自《雨果》",
+            "sen": "how about letting me see your covert <em>lair</em>?",
+            "sen_tran": "让我看看你的隐蔽所如何",
+            "pic_url": "./pic/lair-2.jpg",
+            "pron_url": "./audio/lair-2.mp3"
+        },
+        {
+            "origin": "来自《超级大坏蛋》",
+            "sen": "It's like one of the giant monitors in the <em>lair</em>.",
+            "sen_tran": "就像巢穴里那个大显示器",
+            "pic_url": "./pic/lair-3.jpg",
+            "pron_url": "./audio/lair-3.mp3"
+        },
+        {
+            "origin": "来自《我欲为人 第1季 第12集》",
+            "sen": "and he's building a new green vampire <em>lair</em>.",
+            "sen_tran": "可能他正在建造另一个吸血鬼巢穴",
+            "pic_url": "./pic/lair-4.jpg",
+            "pron_url": "./audio/lair-4.mp3"
+        },
+        {
+            "origin": "来自《灵书妙探 第5季 第6集》",
+            "sen": "On the <em>lair</em> of an evil laser-gun-making genius.",
+            "sen_tran": "挂在制作激光枪的邪恶天才的老巢门口",
+            "pic_url": "./pic/lair-5.jpg",
+            "pron_url": "./audio/lair-5.mp3"
+        }
+    ]
+},
+{
+    "word": "laird",
+    "am_phonetic": "/lɛrd/",
+    "en_phonetic": "/leəd/",
+    "tran": [
+        {
+            "n": "领主，地主"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《太空堡垒卡拉狄加 第4季 第8集》",
+            "sen": "<em>Laird</em> was able to salvage the flight data recorder,puts the originating jump point deep in Sector Delta 9.",
+            "sen_tran": "莱尔德成功恢复了飞行数据记录仪,显示最后一次跳跃源头指向D9区域的深处",
+            "pic_url": "./pic/laird-0.jpg",
+            "pron_url": "./audio/laird-0.mp3"
+        },
+        {
+            "origin": "来自《脱狱之王 第1季 第10集》",
+            "sen": "Parker Bancroft was in Sigma Zeta Chi with <em>Laird</em> Lipinski,but only for a couple of months",
+            "sen_tran": "帕克·班克劳夫在莱尔德·里宾斯基,零七年离开学校前的几个月",
+            "pic_url": "./pic/laird-1.jpg",
+            "pron_url": "./audio/laird-1.mp3"
+        },
+        {
+            "origin": "来自《太空堡垒卡拉狄加：利刃》",
+            "sen": "Mr. <em>Laird</em>, Admiral Cain ordered me to give you this.",
+            "sen_tran": "莱尔德先生 凯恩上将命令我将这个交给你",
+            "pic_url": "./pic/laird-2.jpg",
+            "pron_url": "./audio/laird-2.mp3"
+        },
+        {
+            "origin": "来自《太空堡垒卡拉狄加 第4季 第13集》",
+            "sen": "<em>Laird</em> probably rescheduled it and it didn't make it into the system.",
+            "sen_tran": "可能是莱尔德重新安排了还没有写到系统里",
+            "pic_url": "./pic/laird-3.jpg",
+            "pron_url": "./audio/laird-3.mp3"
+        },
+        {
+            "origin": "来自《脱狱之王 第1季 第10集》",
+            "sen": "Parker and <em>Laird</em> were the only two charged in the rape,and there's no testimony even mentioning",
+            "sen_tran": "本案中 只有帕克和莱尔德被起诉,也无其他证据显示",
+            "pic_url": "./pic/laird-4.jpg",
+            "pron_url": "./audio/laird-4.mp3"
+        }
+    ]
+},
+{
+    "word": "lairy",
+    "am_phonetic": "//",
+    "en_phonetic": "/'lɛri/",
+    "tran": [
+        {
+            "adj": "艳俗的；华丽而俗气的"
+        }
+    ],
+    "example": []
+},
