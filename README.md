@@ -5,6 +5,11 @@
 总共数据： 单词53189个，例句发音文件及图片文件共10G左右，20M带宽不到一个小时就能爬完，我测试是这样的。。。  
 关于单词发音，可自行添加爬取
 
+爬取内容1  
+![maze](https://github.com/RickyHal/91dict_scrapy/blob/master/result_demo/爬取内容1.png)    
+
+爬取内容2  
+![maze](https://github.com/RickyHal/91dict_scrapy/blob/master/result_demo/爬取内容2.png)    
 
 例句发音  
 ![maze](https://github.com/RickyHal/91dict_scrapy/blob/master/result_demo/%E4%BE%8B%E5%8F%A5%E5%8F%91%E9%9F%B3.png)    
