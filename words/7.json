@@ -1,0 +1,41 @@
+{
+    "word": "no claims bonus",
+    "am_phonetic": "//",
+    "en_phonetic": "//",
+    "tran": [
+        {
+            "": "无赔偿退款"
+        },
+        {
+            "": "无赔款退费"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《一年之痒》",
+            "sen": "Or at the very least, the loss of any <em>no-claims</em> <em>bonus</em>.",
+            "sen_tran": "但明年的无索偿奖金肯定泡汤了",
+            "pic_url": "./pic/no claims bonus-0.jpg",
+            "pron_url": "./audio/no claims bonus-0.mp3"
+        }
+    ]
+},
+{
+    "word": "take no count of",
+    "am_phonetic": "//",
+    "en_phonetic": "//",
+    "tran": [
+        {
+            "v": "不重视"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《公主和青蛙》",
+            "sen": "No, you're a <em>no-count</em>, plundering, lazy bump on a log.",
+            "sen_tran": "错 你是个没钱没品又懒惰的呆子",
+            "pic_url": "./pic/take no count of-0.jpg",
+            "pron_url": "./audio/take no count of-0.mp3"
+        }
+    ]
+},

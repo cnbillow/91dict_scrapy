@@ -1,0 +1,66 @@
+{
+    "word": "breathy",
+    "am_phonetic": "/'brɛθi/",
+    "en_phonetic": "/'breθɪ/",
+    "tran": [
+        {
+            "adj": "带呼吸声的；缺少声量的"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《打工姐妹花 第2季 第19集》",
+            "sen": "Sometimes chives can be a little <em>breathy</em>, am I right?",
+            "sen_tran": "香葱味的话 嘴巴会容易有味道",
+            "pic_url": "./pic/breathy-0.jpg",
+            "pron_url": "./audio/breathy-0.mp3"
+        }
+    ]
+},
+{
+    "word": "breech",
+    "am_phonetic": "/britʃ/",
+    "en_phonetic": "/briːtʃ/",
+    "tran": [
+        {
+            "n": "臀部；后膛"
+        },
+        {
+            "vt": "给…穿上裤子；给…装上炮尾"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《菲洛梅娜》",
+            "sen": "The baby is the wrong way round. It's <em>breech</em>!",
+            "sen_tran": "孩子的位置不对 这是臀位分娩",
+            "pic_url": "./pic/breech-0.jpg",
+            "pron_url": "./audio/breech-0.mp3"
+        },
+        {
+            "origin": "来自《犯罪心理 第10季 第14集》",
+            "sen": "IPD, don't let that van <em>breech</em> the perimeter.",
+            "sen_tran": "印警署 别让货车进入保护区",
+            "pic_url": "./pic/breech-1.jpg",
+            "pron_url": "./audio/breech-1.mp3"
+        },
+        {
+            "origin": "来自《笨人晚宴》",
+            "sen": "The foal was in <em>breech</em>. At about the 22nd hour,I just said, \"Stuff it.\"",
+            "sen_tran": "马驹臀位难产 二十二个小时之后,我说 去他妈的",
+            "pic_url": "./pic/breech-2.jpg",
+            "pron_url": "./audio/breech-2.mp3"
+        }
+    ]
+},
+{
+    "word": "breech birth",
+    "am_phonetic": "//",
+    "en_phonetic": "//",
+    "tran": [
+        {
+            "": "臀位分娩"
+        }
+    ],
+    "example": []
+},

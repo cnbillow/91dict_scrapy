@@ -1,0 +1,30 @@
+{
+    "word": "watchtower",
+    "am_phonetic": "/'wɔtʃ,taʊr/",
+    "en_phonetic": "/'wɒtʃtaʊə/",
+    "tran": [
+        {
+            "n": "瞭望塔，岗楼"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《银河护卫队》",
+            "sen": "we're gonna need to get into that <em>watchtower</em>.",
+            "sen_tran": "得设法进到那边的瞭望塔里",
+            "pic_url": "./pic/watchtower-0.jpg",
+            "pron_url": "./audio/watchtower-0.mp3"
+        }
+    ]
+},
+{
+    "word": "watchword",
+    "am_phonetic": "/'wɑtʃwɝd/",
+    "en_phonetic": "/'wɒtʃwɜːd/",
+    "tran": [
+        {
+            "n": "口号；标语；口令；暗号"
+        }
+    ],
+    "example": []
+},

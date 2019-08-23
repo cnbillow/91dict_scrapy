@@ -1,0 +1,55 @@
+{
+    "word": "prickly",
+    "am_phonetic": "//",
+    "en_phonetic": "/'prɪklɪ/",
+    "tran": [
+        {
+            "adj": "多刺的；刺痛的；易动怒的"
+        }
+    ],
+    "example": [
+        {
+            "origin": "来自《热血警探》",
+            "sen": "Oh, yeah, he was a <em>prickly</em> customer, werert he?",
+            "sen_tran": "那他身上的刺还有够多的",
+            "pic_url": "./pic/prickly-0.jpg",
+            "pron_url": "./audio/prickly-0.mp3"
+        },
+        {
+            "origin": "来自《马男波杰克 第1季 第3集》",
+            "sen": "Why aren't you dressed for school, <em>prickly</em> muffin?",
+            "sen_tran": "你怎么还不穿衣服准备去学校 刺松饼",
+            "pic_url": "./pic/prickly-1.jpg",
+            "pron_url": "./audio/prickly-1.mp3"
+        },
+        {
+            "origin": "来自《瑜珈熊》",
+            "sen": "Well l was thinking about the park's <em>prickly</em> predicament...",
+            "sen_tran": "考虑到公园艰难的处境",
+            "pic_url": "./pic/prickly-2.jpg",
+            "pron_url": "./audio/prickly-2.mp3"
+        }
+    ]
+},
+{
+    "word": "prickly heat",
+    "am_phonetic": "//",
+    "en_phonetic": "//",
+    "tran": [
+        {
+            "n": "痱子"
+        }
+    ],
+    "example": []
+},
+{
+    "word": "prickly pear",
+    "am_phonetic": "//",
+    "en_phonetic": "//",
+    "tran": [
+        {
+            "": "仙人掌果"
+        }
+    ],
+    "example": []
+},
