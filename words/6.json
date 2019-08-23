@@ -1,0 +1,137 @@
+{
+    "am_phonetic": "//",
+    "tran": [
+        {
+            "n": "喝酒后行为不端的年轻人"
+        }
+    ],
+    "en_phonetic": "//",
+    "word": "lager lout",
+    "example": []
+},
+{
+    "am_phonetic": "//",
+    "tran": [
+        {
+            "adj": "落后的；迟钝的；迟缓的"
+        },
+        {
+            "n": "落后者；迟钝者"
+        }
+    ],
+    "en_phonetic": "/'lægəd/",
+    "word": "laggard",
+    "example": []
+},
+{
+    "am_phonetic": "//",
+    "tran": [
+        {
+            "adj": "缓慢的；落后的"
+        },
+        {
+            "adv": "行动迟缓地"
+        }
+    ],
+    "en_phonetic": "/'lægədli/",
+    "word": "laggardly",
+    "example": []
+},
+{
+    "am_phonetic": "//",
+    "tran": [
+        {
+            "adj": "缓慢的；落后的"
+        },
+        {
+            "adv": "行动迟缓地"
+        }
+    ],
+    "en_phonetic": "/'lægədli/",
+    "word": "laggardly",
+    "example": []
+},
+{
+    "am_phonetic": "/'lægɪŋ/",
+    "tran": [
+        {
+            "n": "绝缘层材料"
+        },
+        {
+            "adj": "落后的"
+        }
+    ],
+    "en_phonetic": "/'lægɪŋ/",
+    "word": "lagging",
+    "example": [
+        {
+            "pic_url": "./pic/lagging-0.jpg",
+            "pron_url": "./audio/lagging-0.mp3",
+            "origin": "来自《万物理论》",
+            "sen": "Sorry, I'm <em>lagging</em> behind in my pioneering research into,obscure, motor, baseball related diseases.",
+            "sen_tran": "不好意思 神经运动 棒球什么的病,我还没深入研究过"
+        },
+        {
+            "pic_url": "./pic/lagging-1.jpg",
+            "pron_url": "./audio/lagging-1.mp3",
+            "origin": "来自《耶鲁大学开放课程：金融市场 第23集》",
+            "sen": "but remember this is a six-month--it's a <em>lagging</em> six months.",
+            "sen_tran": "因为这里有6个月的滞后"
+        },
+        {
+            "pic_url": "./pic/lagging-2.jpg",
+            "pron_url": "./audio/lagging-2.mp3",
+            "origin": "来自《耶鲁大学开放课程：有关食物的心理学、生物学和政治学 第14集》",
+            "sen": "that is so <em>lagging</em>, Millennium Development Goal Number One.",
+            "sen_tran": "这个首要的千禧年发展目标已经滞后太久"
+        },
+        {
+            "pic_url": "./pic/lagging-3.jpg",
+            "pron_url": "./audio/lagging-3.mp3",
+            "origin": "来自《耶鲁大学开放课程：金融市场 第22集》",
+            "sen": "and they kind of know when the S&amp;P 500 is <em>lagging</em>,and they immediately correct it in the futures price.",
+            "sen_tran": "他们知道什么时候标普500指数落后了,然后立刻在期价上纠正过来"
+        },
+        {
+            "pic_url": "./pic/lagging-4.jpg",
+            "pron_url": "./audio/lagging-4.mp3",
+            "origin": "来自《耶鲁大学开放课程：生物医学工程探索 第24集》",
+            "sen": "Then, <em>lagging</em> behind that by about a period of 30 years,is a dramatic increase in lung cancer.",
+            "sen_tran": "然后在此后的30年,肺癌的有了显著的增长"
+        }
+    ]
+},
+{
+    "am_phonetic": "/lə'gʊn/",
+    "tran": [
+        {
+            "n": "[地理][水文] 泻湖；环礁湖；咸水湖"
+        }
+    ],
+    "en_phonetic": "/lə'guːn/",
+    "word": "lagoon",
+    "example": [
+        {
+            "pic_url": "./pic/lagoon-0.jpg",
+            "pron_url": "./audio/lagoon-0.mp3",
+            "origin": "来自《迷失 第5季 第6集》",
+            "sen": "The next thing I know, I'm in the <em>lagoon</em>.",
+            "sen_tran": "接下来就发现 我在湖里"
+        }
+    ]
+},
+{
+    "am_phonetic": "//",
+    "tran": [],
+    "en_phonetic": "/'leidbæk/",
+    "word": "laid-back",
+    "example": [
+        {
+            "pic_url": "./pic/laid-back-0.jpg",
+            "pron_url": "./audio/laid-back-0.mp3",
+            "origin": "来自《预产期》",
+            "sen": "This one, this is a <em>laid-back</em> guy with a Hawaiian shirt...",
+            "sen_tran": "这张 是个穿着夏威夷衬衫的休闲男"
+        }
+    ]
+},

@@ -1,0 +1,76 @@
+{
+    "am_phonetic": "/'sɪrəpi/",
+    "tran": [
+        {
+            "adj": "糖浆的；糖浆似的"
+        }
+    ],
+    "en_phonetic": "/'sɪrəpi/",
+    "word": "syrupy",
+    "example": []
+},
+{
+    "am_phonetic": "/'sɪstəm/",
+    "tran": [
+        {
+            "n": "制度，体制；系统；方法"
+        }
+    ],
+    "en_phonetic": "/'sɪstəm/",
+    "word": "system",
+    "example": [
+        {
+            "pic_url": "./pic/system-0.jpg",
+            "pron_url": "./audio/system-0.mp3",
+            "origin": "来自《灵书妙探 第3季 第6集》",
+            "sen": "- It's part of my <em>system</em>. - Your <em>system</em> is dumb.",
+            "sen_tran": "-那是我的一种摆放方式 -那太蠢了"
+        },
+        {
+            "pic_url": "./pic/system-1.jpg",
+            "pron_url": "./audio/system-1.mp3",
+            "origin": "来自《家有正太 第2季 第3集》",
+            "sen": "This three Bs party is going to cleanse my <em>system</em>.",
+            "sen_tran": "这个3B派对会清洁我的整个系统"
+        },
+        {
+            "pic_url": "./pic/system-2.jpg",
+            "pron_url": "./audio/system-2.mp3",
+            "origin": "来自《新飞跃比弗利 第3季 第16集》",
+            "sen": "I couldn't believe you had no backup <em>system</em>.",
+            "sen_tran": "真不敢相信 你竟然没有备用系统"
+        },
+        {
+            "pic_url": "./pic/system-3.jpg",
+            "pron_url": "./audio/system-3.mp3",
+            "origin": "来自《殊途同归 第1季 第3集》",
+            "sen": "Now. How old do you think our solar <em>system</em> is?",
+            "sen_tran": "大家觉得太阳系形成有多少年了"
+        },
+        {
+            "pic_url": "./pic/system-4.jpg",
+            "pron_url": "./audio/system-4.mp3",
+            "origin": "来自《美国恐怖故事 第2季 第11集》",
+            "sen": "that your son is not swallowed by the <em>system</em>,but I will also do everything in my power",
+            "sen_tran": "你的儿子不被机构收养,我还会尽我所能"
+        },
+        {
+            "pic_url": "./pic/system-5.jpg",
+            "pron_url": "./audio/system-5.mp3",
+            "origin": "来自《耶鲁大学开放课程：心理学导论 第5集》",
+            "sen": "but the learning pattern varies from <em>system</em> to <em>system</em>,and there's a separateness to them.",
+            "sen_tran": "但学习模式因系统的不同而有所变化,它们之间也是相互独立的"
+        }
+    ]
+},
+{
+    "am_phonetic": "//",
+    "tran": [
+        {
+            "": "系统管理员"
+        }
+    ],
+    "en_phonetic": "//",
+    "word": "system administrator",
+    "example": []
+},

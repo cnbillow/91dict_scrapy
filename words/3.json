@@ -1,0 +1,63 @@
+{
+    "am_phonetic": "/krɪsp/",
+    "tran": [
+        {
+            "adj": "脆的；新鲜的；易碎的"
+        },
+        {
+            "vt": "使卷曲；使发脆"
+        },
+        {
+            "vi": "卷曲；发脆"
+        },
+        {
+            "n": "松脆物；油炸马铃薯片"
+        }
+    ],
+    "en_phonetic": "/krɪsp/",
+    "word": "crisp",
+    "example": [
+        {
+            "pic_url": "./pic/crisp-0.jpg",
+            "pron_url": "./audio/crisp-0.mp3",
+            "origin": "来自《超级英雄》",
+            "sen": "I've been bathing their apple <em>crisp</em> and Tater Tots,in the Beam of Sloth.",
+            "sen_tran": "我把他们的苹果酥和小土豆,都用\"懒散射线\"烤过了"
+        },
+        {
+            "pic_url": "./pic/crisp-1.jpg",
+            "pron_url": "./audio/crisp-1.mp3",
+            "origin": "来自《侠胆雄狮 第1季》",
+            "sen": "This place will be burnt to a <em>crisp</em>,before anyone even arrives.",
+            "sen_tran": "在他们到来之前,这个地方就会燃为灰烬"
+        },
+        {
+            "pic_url": "./pic/crisp-2.jpg",
+            "pron_url": "./audio/crisp-2.mp3",
+            "origin": "来自《冬天的骨头》",
+            "sen": "You're saying dad's up there burnt to a <em>crisp</em>?",
+            "sen_tran": "你是说我爸在里头烧的一干二净了吗"
+        },
+        {
+            "pic_url": "./pic/crisp-3.jpg",
+            "pron_url": "./audio/crisp-3.mp3",
+            "origin": "来自《太空堡垒卡拉狄加 第4季 第18集》",
+            "sen": "Dead as in \"crash landed, burnt to a <em>crisp</em>\" dead.",
+            "sen_tran": "死在紧急迫降中 被烧死成了焦炭"
+        },
+        {
+            "pic_url": "./pic/crisp-4.jpg",
+            "pron_url": "./audio/crisp-4.mp3",
+            "origin": "来自《大西洋帝国 第1季 第12集》",
+            "sen": "It's like walking through a wood on a <em>crisp</em> autumn--,...from the snares of the devil,",
+            "sen_tran": "就像在舒爽的秋日穿过森林,自恶魔的诱惑中"
+        },
+        {
+            "pic_url": "./pic/crisp-5.jpg",
+            "pron_url": "./audio/crisp-5.mp3",
+            "origin": "来自《耶鲁大学开放课程：有关食物的心理学、生物学和政治学 第22集》",
+            "sen": "from the New Haven Public Schools serving squabble <em>crisp</em>,probably not something you've had before,",
+            "sen_tran": "纽黑文公共学校的厨师为大家烹制南瓜脆,大家可能以前没吃过这东西"
+        }
+    ]
+},

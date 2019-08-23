@@ -1,0 +1,54 @@
+{
+    "am_phonetic": "/'hænd'gʌn/",
+    "tran": [
+        {
+            "n": "手枪"
+        }
+    ],
+    "en_phonetic": "/'hæn(d)gʌn/",
+    "word": "handgun",
+    "example": [
+        {
+            "pic_url": "./pic/handgun-0.jpg",
+            "pron_url": "./audio/handgun-0.mp3",
+            "origin": "来自《源代码》",
+            "sen": "Inside is a loaded <em>handgun</em>. Get to it.",
+            "sen_tran": "箱内有一把上膛的手枪 找到它"
+        },
+        {
+            "pic_url": "./pic/handgun-1.jpg",
+            "pron_url": "./audio/handgun-1.mp3",
+            "origin": "来自《失败者》",
+            "sen": "It's like giving a <em>handgun</em> to a 6-year-old, Wade.",
+            "sen_tran": "就像是把手枪给个六岁的孩子 韦德"
+        },
+        {
+            "pic_url": "./pic/handgun-2.jpg",
+            "pron_url": "./audio/handgun-2.mp3",
+            "origin": "来自《脱狱之王 第2季 第3集》",
+            "sen": "uh, he tucked the <em>handgun</em> into his pants,and shot himself in the butt.",
+            "sen_tran": "他把手枪塞进裤管里,结果枪打中了他的屁股"
+        },
+        {
+            "pic_url": "./pic/handgun-3.jpg",
+            "pron_url": "./audio/handgun-3.mp3",
+            "origin": "来自《灵书妙探 第6季 第16集》",
+            "sen": "Based on the entry wound, I'd say a small-caliber <em>handgun</em>.",
+            "sen_tran": "从入口伤来看 应该是小口径手枪"
+        },
+        {
+            "pic_url": "./pic/handgun-4.jpg",
+            "pron_url": "./audio/handgun-4.mp3",
+            "origin": "来自《灵书妙探 第3季 第8集》",
+            "sen": "That's quite an accurate shot with a <em>handgun</em>.",
+            "sen_tran": "凶手枪法很准嘛"
+        },
+        {
+            "pic_url": "./pic/handgun-5.jpg",
+            "pron_url": "./audio/handgun-5.mp3",
+            "origin": "来自《耶鲁大学开放课程：有关食物的心理学、生物学和政治学 第19集》",
+            "sen": "so he now has the <em>handgun</em>, the pistol without the magazine in it,and he says to Ross, let's go out and play.",
+            "sen_tran": "所以他现在拿着一把没有装弹夹的手枪,然后他跟罗斯说 我们出去玩儿吧"
+        }
+    ]
+},

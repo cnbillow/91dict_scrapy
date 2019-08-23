@@ -1,0 +1,57 @@
+{
+    "am_phonetic": "/'ivl/",
+    "tran": [
+        {
+            "adj": "邪恶的；不幸的；有害的；讨厌的"
+        },
+        {
+            "n": "罪恶，邪恶；不幸"
+        }
+    ],
+    "en_phonetic": "/'iːv(ə)l; -vɪl/",
+    "word": "evil",
+    "example": [
+        {
+            "pic_url": "./pic/evil-0.jpg",
+            "pron_url": "./audio/evil-0.mp3",
+            "origin": "来自《犯罪心理 第8季 第9集》",
+            "sen": "Isn't the phrase supposed to be \"See no <em>evil</em>, hear no <em>evil</em>\"?",
+            "sen_tran": "不应该是\"目不见恶 耳不闻恶\"吗"
+        },
+        {
+            "pic_url": "./pic/evil-1.jpg",
+            "pron_url": "./audio/evil-1.mp3",
+            "origin": "来自《废柴联盟 第3季 第4集》",
+            "sen": "We're the <em>evil</em> study group, and we have but one <em>evil</em> goal.",
+            "sen_tran": "我们是邪恶学习小组 有一个邪恶的目的"
+        },
+        {
+            "pic_url": "./pic/evil-2.jpg",
+            "pron_url": "./audio/evil-2.mp3",
+            "origin": "来自《唐顿庄园 第3季 第8集》",
+            "sen": "- Am I not to stand up against <em>evil</em>? - <em>Evil</em>?",
+            "sen_tran": "-难道我不能反抗邪恶吗 -邪恶"
+        },
+        {
+            "pic_url": "./pic/evil-3.jpg",
+            "pron_url": "./audio/evil-3.mp3",
+            "origin": "来自《谎言之躯》",
+            "sen": "those to whom <em>evil</em> is done do <em>evil</em> in return. W.H.Auden,Manchester England",
+            "sen_tran": "恶有恶报之道 摘自奥登作品,英格兰 曼彻斯特城"
+        },
+        {
+            "pic_url": "./pic/evil-4.jpg",
+            "pron_url": "./audio/evil-4.mp3",
+            "origin": "来自《警戒结束》",
+            "sen": "So Mr. Big <em>Evil</em>... why do they call you Big <em>Evil</em>?",
+            "sen_tran": "那大恶人先生 他们为什么叫你大恶人"
+        },
+        {
+            "pic_url": "./pic/evil-5.jpg",
+            "pron_url": "./audio/evil-5.mp3",
+            "origin": "来自《耶鲁大学开放课程：博弈论 第1集》",
+            "sen": "We've seen a case where an <em>evil</em> git was playing an <em>evil</em> git;",
+            "sen_tran": "一种是饭桶恶魔于与饭桶恶魔的博弈"
+        }
+    ]
+},

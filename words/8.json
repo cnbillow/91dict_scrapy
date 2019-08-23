@@ -1,0 +1,95 @@
+{
+    "am_phonetic": "//",
+    "tran": [
+        {
+            "adj": "多刺的；刺痛的；易动怒的"
+        }
+    ],
+    "en_phonetic": "/'prɪklɪ/",
+    "word": "prickly",
+    "example": [
+        {
+            "pic_url": "./pic/prickly-0.jpg",
+            "pron_url": "./audio/prickly-0.mp3",
+            "origin": "来自《热血警探》",
+            "sen": "Oh, yeah, he was a <em>prickly</em> customer, werert he?",
+            "sen_tran": "那他身上的刺还有够多的"
+        },
+        {
+            "pic_url": "./pic/prickly-1.jpg",
+            "pron_url": "./audio/prickly-1.mp3",
+            "origin": "来自《马男波杰克 第1季 第3集》",
+            "sen": "Why aren't you dressed for school, <em>prickly</em> muffin?",
+            "sen_tran": "你怎么还不穿衣服准备去学校 刺松饼"
+        },
+        {
+            "pic_url": "./pic/prickly-2.jpg",
+            "pron_url": "./audio/prickly-2.mp3",
+            "origin": "来自《瑜珈熊》",
+            "sen": "Well l was thinking about the park's <em>prickly</em> predicament...",
+            "sen_tran": "考虑到公园艰难的处境"
+        }
+    ]
+},
+{
+    "am_phonetic": "//",
+    "tran": [
+        {
+            "n": "痱子"
+        }
+    ],
+    "en_phonetic": "//",
+    "word": "prickly heat",
+    "example": []
+},
+{
+    "am_phonetic": "//",
+    "tran": [
+        {
+            "": "仙人掌果"
+        }
+    ],
+    "en_phonetic": "//",
+    "word": "prickly pear",
+    "example": []
+},
+{
+    "am_phonetic": "//",
+    "tran": [
+        {
+            "adj": "价格高的；昂贵的"
+        }
+    ],
+    "en_phonetic": "/'praɪsɪ/",
+    "word": "pricy",
+    "example": [
+        {
+            "pic_url": "./pic/pricy-0.jpg",
+            "pron_url": "./audio/pricy-0.mp3",
+            "origin": "来自《灵书妙探 第6季 第19集》",
+            "sen": "A <em>pricy</em> necklace or... oh, a bunch of cash,taped to his chest like \"Wolf of Wall Street.\"",
+            "sen_tran": "价值连城的项链 或者像《华尔街之狼》那样,找贴在他胸前的一堆现金"
+        },
+        {
+            "pic_url": "./pic/pricy-1.jpg",
+            "pron_url": "./audio/pricy-1.mp3",
+            "origin": "来自《熟女镇 第4季 第14集》",
+            "sen": "And if they're too <em>pricy</em>, is there some sort of,hole-in-the-fence situation where we can watch for free?",
+            "sen_tran": "如果票价非常贵,是不是包括免费看某些限制级镜头呢"
+        },
+        {
+            "pic_url": "./pic/pricy-2.jpg",
+            "pron_url": "./audio/pricy-2.mp3",
+            "origin": "来自《好汉两个半 第12季 第12集》",
+            "sen": "Is it the restaurant? It's not too <em>pricy</em>, is it?",
+            "sen_tran": "是这家餐馆吗 其实这里不贵"
+        },
+        {
+            "pic_url": "./pic/pricy-3.jpg",
+            "pron_url": "./audio/pricy-3.mp3",
+            "origin": "来自《耶鲁大学开放课程：博弈论 第1集》",
+            "sen": "and they could put this contract in with the <em>pricy</em> lawyer,who's taking a day off from the divorce court,",
+            "sen_tran": "然后可以找个刚处理完离婚纠纷的,著名律师来作见证人"
+        }
+    ]
+},

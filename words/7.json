@@ -1,0 +1,99 @@
+{
+    "am_phonetic": "//",
+    "tran": [
+        {
+            "": "无赔偿退款"
+        },
+        {
+            "": "无赔款退费"
+        }
+    ],
+    "en_phonetic": "//",
+    "word": "no claims bonus",
+    "example": [
+        {
+            "pic_url": "./pic/no claims bonus-0.jpg",
+            "pron_url": "./audio/no claims bonus-0.mp3",
+            "origin": "来自《一年之痒》",
+            "sen": "Or at the very least, the loss of any <em>no-claims</em> <em>bonus</em>.",
+            "sen_tran": "但明年的无索偿奖金肯定泡汤了"
+        }
+    ]
+},
+{
+    "am_phonetic": "//",
+    "tran": [
+        {
+            "v": "不重视"
+        }
+    ],
+    "en_phonetic": "//",
+    "word": "take no count of",
+    "example": [
+        {
+            "pic_url": "./pic/take no count of-0.jpg",
+            "pron_url": "./audio/take no count of-0.mp3",
+            "origin": "来自《公主和青蛙》",
+            "sen": "No, you're a <em>no-count</em>, plundering, lazy bump on a log.",
+            "sen_tran": "错 你是个没钱没品又懒惰的呆子"
+        }
+    ]
+},
+{
+    "am_phonetic": "/nɑk'tɝnl/",
+    "tran": [
+        {
+            "adj": "夜的；夜曲的；夜间发生的"
+        }
+    ],
+    "en_phonetic": "/nɒk'tɜːn(ə)l/",
+    "word": "nocturnal",
+    "example": [
+        {
+            "pic_url": "./pic/nocturnal-0.jpg",
+            "pron_url": "./audio/nocturnal-0.mp3",
+            "origin": "来自《上帝保佑美国》",
+            "sen": "to some kind of <em>nocturnal</em> civil defense air raid siren,that goes off every fucking night like it's pearl harbor.",
+            "sen_tran": "而是夜夜都像珍珠港一样鸣笛的,夜间民防空袭警报"
+        },
+        {
+            "pic_url": "./pic/nocturnal-1.jpg",
+            "pron_url": "./audio/nocturnal-1.mp3",
+            "origin": "来自《侠胆雄狮 第1季》",
+            "sen": "I mean, you're like Mr. <em>Nocturnal</em> Guy, right?",
+            "sen_tran": "你就像夜行人一样 对吧"
+        },
+        {
+            "pic_url": "./pic/nocturnal-2.jpg",
+            "pron_url": "./audio/nocturnal-2.mp3",
+            "origin": "来自《狂野目标》",
+            "sen": "A great many people experience fits of <em>nocturnal</em> anxiety.",
+            "sen_tran": "很多人在夜晚都会焦虑"
+        },
+        {
+            "pic_url": "./pic/nocturnal-3.jpg",
+            "pron_url": "./audio/nocturnal-3.mp3",
+            "origin": "来自《行动目标希特勒》",
+            "sen": "Your <em>nocturnal</em> activities don't count as service to the Reich.",
+            "sen_tran": "你的夜间活动不能算作是为德国效力"
+        },
+        {
+            "pic_url": "./pic/nocturnal-4.jpg",
+            "pron_url": "./audio/nocturnal-4.mp3",
+            "origin": "来自《新闻编辑室 第3季 第1集》",
+            "sen": "Neal, tell us what's going on with the <em>nocturnal</em> nut brigade.",
+            "sen_tran": "尼尔 夜行傻子队情况如何[指网络平民侦探队]"
+        }
+    ]
+},
+{
+    "am_phonetic": "/'nɑktɝn/",
+    "tran": [
+        {
+            "n": "夜曲；夜景；夜景画"
+        }
+    ],
+    "en_phonetic": "/'nɒktɜːn/",
+    "word": "nocturne",
+    "example": []
+},

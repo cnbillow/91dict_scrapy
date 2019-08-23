@@ -1,0 +1,54 @@
+{
+    "am_phonetic": "/sɝ/",
+    "tran": [
+        {
+            "n": "先生；（用于姓名前）爵士；阁下；（中小学生对男教师的称呼）先生；老师"
+        }
+    ],
+    "en_phonetic": "/sɜː/",
+    "word": "sir",
+    "example": [
+        {
+            "pic_url": "./pic/sir-0.jpg",
+            "pron_url": "./audio/sir-0.mp3",
+            "origin": "来自《一位年轻医生的笔记 第1季 第2集》",
+            "sen": "It was me, <em>sir</em> and no one else, <em>sir</em>.",
+            "sen_tran": "我一个人喝掉了 医生"
+        },
+        {
+            "pic_url": "./pic/sir-1.jpg",
+            "pron_url": "./audio/sir-1.mp3",
+            "origin": "来自《拆弹部队》",
+            "sen": "No, <em>sir</em>, <em>sir</em>, that's sergeant James. He's right here.",
+            "sen_tran": "不 长官 是詹姆斯中士 他就在那里"
+        },
+        {
+            "pic_url": "./pic/sir-2.jpg",
+            "pron_url": "./audio/sir-2.mp3",
+            "origin": "来自《雷斯特雷波》",
+            "sen": "<em>Sir</em>. How you doing, <em>sir</em>? Good to see you again.",
+            "sen_tran": "长官 还好吗 很高兴再见到您"
+        },
+        {
+            "pic_url": "./pic/sir-3.jpg",
+            "pron_url": "./audio/sir-3.mp3",
+            "origin": "来自《太空堡垒卡拉狄加 第4季 第12集》",
+            "sen": "Yes, <em>sir</em>. I'm sorry, <em>sir</em>, but what can I do?",
+            "sen_tran": "是 长官 我很抱歉 可我能怎么办？"
+        },
+        {
+            "pic_url": "./pic/sir-4.jpg",
+            "pron_url": "./audio/sir-4.mp3",
+            "origin": "来自《太空堡垒卡拉狄加 第2季 第12集》",
+            "sen": "Don't worry, <em>sir</em>. I'll take it real slow, <em>sir</em>.",
+            "sen_tran": "别担心 长官 我们会慢慢来的 长官!"
+        },
+        {
+            "pic_url": "./pic/sir-5.jpg",
+            "pron_url": "./audio/sir-5.mp3",
+            "origin": "来自《耶鲁大学开放课程：欧洲文明》",
+            "sen": "And he replied, <em>Sir</em>, I pedal so quickly,they'll never catch me.",
+            "sen_tran": "他回答道 先生 我踩踏板很快,他们永远也追不上我"
+        }
+    ]
+},

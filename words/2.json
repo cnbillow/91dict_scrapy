@@ -1,0 +1,109 @@
+{
+    "am_phonetic": "/'brɛθi/",
+    "tran": [
+        {
+            "adj": "带呼吸声的；缺少声量的"
+        }
+    ],
+    "en_phonetic": "/'breθɪ/",
+    "word": "breathy",
+    "example": [
+        {
+            "pic_url": "./pic/breathy-0.jpg",
+            "pron_url": "./audio/breathy-0.mp3",
+            "origin": "来自《打工姐妹花 第2季 第19集》",
+            "sen": "Sometimes chives can be a little <em>breathy</em>, am I right?",
+            "sen_tran": "香葱味的话 嘴巴会容易有味道"
+        }
+    ]
+},
+{
+    "am_phonetic": "/britʃ/",
+    "tran": [
+        {
+            "n": "臀部；后膛"
+        },
+        {
+            "vt": "给…穿上裤子；给…装上炮尾"
+        }
+    ],
+    "en_phonetic": "/briːtʃ/",
+    "word": "breech",
+    "example": [
+        {
+            "pic_url": "./pic/breech-0.jpg",
+            "pron_url": "./audio/breech-0.mp3",
+            "origin": "来自《菲洛梅娜》",
+            "sen": "The baby is the wrong way round. It's <em>breech</em>!",
+            "sen_tran": "孩子的位置不对 这是臀位分娩"
+        },
+        {
+            "pic_url": "./pic/breech-1.jpg",
+            "pron_url": "./audio/breech-1.mp3",
+            "origin": "来自《犯罪心理 第10季 第14集》",
+            "sen": "IPD, don't let that van <em>breech</em> the perimeter.",
+            "sen_tran": "印警署 别让货车进入保护区"
+        },
+        {
+            "pic_url": "./pic/breech-2.jpg",
+            "pron_url": "./audio/breech-2.mp3",
+            "origin": "来自《笨人晚宴》",
+            "sen": "The foal was in <em>breech</em>. At about the 22nd hour,I just said, \"Stuff it.\"",
+            "sen_tran": "马驹臀位难产 二十二个小时之后,我说 去他妈的"
+        }
+    ]
+},
+{
+    "am_phonetic": "//",
+    "tran": [
+        {
+            "": "臀位分娩"
+        }
+    ],
+    "en_phonetic": "//",
+    "word": "breech birth",
+    "example": []
+},
+{
+    "am_phonetic": "/'brɪtʃɪz/",
+    "tran": [
+        {
+            "n": "马裤（裤脚束紧长及膝部的裤子）；炮尾（breech的复数）"
+        },
+        {
+            "v": "给…穿上裤子；打…的屁股；以驻退索缚牢（breech的第三人称单数）"
+        }
+    ],
+    "en_phonetic": "/'brɪtʃɪz; briːtʃɪz/",
+    "word": "breeches",
+    "example": [
+        {
+            "pic_url": "./pic/breeches-0.jpg",
+            "pron_url": "./audio/breeches-0.mp3",
+            "origin": "来自《大西洋帝国 第3季 第4集》",
+            "sen": "Nearly shit your <em>breeches</em> there, didn't you, son?",
+            "sen_tran": "差点拉了裤子是吧 孩子"
+        },
+        {
+            "pic_url": "./pic/breeches-1.jpg",
+            "pron_url": "./audio/breeches-1.mp3",
+            "origin": "来自《超市特工 第5季 第3集》",
+            "sen": "you're acting a little bit big for your <em>breeches</em>.",
+            "sen_tran": "就开始离谱了啊"
+        },
+        {
+            "pic_url": "./pic/breeches-2.jpg",
+            "pron_url": "./audio/breeches-2.mp3",
+            "origin": "来自《冰与火之歌：权力的游戏 第4季 第8集》",
+            "sen": "First time I saw you with your <em>breeches</em> down,I thought you were a eunuch.",
+            "sen_tran": "头一次见你脱裤子的时候,还以为你是个太监呢"
+        },
+        {
+            "pic_url": "./pic/breeches-3.jpg",
+            "pron_url": "./audio/breeches-3.mp3",
+            "origin": "来自《耶鲁大学开放课程：欧洲文明 第6集》",
+            "sen": "What it meant was not wearing fancy kind of aristocratic <em>breeches</em>,and it became identified with a form of political behavior.",
+            "sen_tran": "这里表示不穿着华美的贵族式马裤,之后逐渐成为一种政治行为的代名词"
+        }
+    ]
+},

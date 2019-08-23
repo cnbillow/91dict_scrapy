@@ -1,0 +1,76 @@
+{
+    "am_phonetic": "//",
+    "tran": [
+        {
+            "n": "最迟销售日期"
+        }
+    ],
+    "en_phonetic": "//",
+    "word": "sell-by date",
+    "example": []
+},
+{
+    "am_phonetic": "/'sɛlɚ/",
+    "tran": [
+        {
+            "n": "卖方，售货员"
+        }
+    ],
+    "en_phonetic": "/'selə/",
+    "word": "seller",
+    "example": [
+        {
+            "pic_url": "./pic/seller-0.jpg",
+            "pron_url": "./audio/seller-0.mp3",
+            "origin": "来自《陵园路口》",
+            "sen": "Top <em>seller</em> in three months. Been to three winners balls.",
+            "sen_tran": "三个月成为最佳销售 去三次冠军酒会"
+        },
+        {
+            "pic_url": "./pic/seller-1.jpg",
+            "pron_url": "./audio/seller-1.mp3",
+            "origin": "来自《外星人保罗》",
+            "sen": "the team behind this year's multi-Nebulon-award-winning best <em>seller</em>.",
+            "sen_tran": "荣获今年多项尼布隆奖项的畅销书创作团队"
+        },
+        {
+            "pic_url": "./pic/seller-2.jpg",
+            "pron_url": "./audio/seller-2.mp3",
+            "origin": "来自《恋恋书中人》",
+            "sen": "of The New York Times Best <em>Seller</em> list,uh, for several months.",
+            "sen_tran": "纽约时报畅销书作家榜首,好几个月了"
+        },
+        {
+            "pic_url": "./pic/seller-3.jpg",
+            "pron_url": "./audio/seller-3.mp3",
+            "origin": "来自《失落的大陆》",
+            "sen": "Sixteen weeks on the NY time's best <em>seller</em> list.",
+            "sen_tran": "连续十六周登上纽约时报畅销书榜"
+        },
+        {
+            "pic_url": "./pic/seller-4.jpg",
+            "pron_url": "./audio/seller-4.mp3",
+            "origin": "来自《家园》",
+            "sen": "When trade is fair, when both buyer and <em>seller</em> benefit,Everybody can prosper and earn a decent living.",
+            "sen_tran": "交易公平 买卖双方都受益,每个人都能过上富裕的生活"
+        },
+        {
+            "pic_url": "./pic/seller-5.jpg",
+            "pron_url": "./audio/seller-5.mp3",
+            "origin": "来自《耶鲁大学开放课程：资本主义：成功、危机与改革 第3集》",
+            "sen": "no <em>seller</em> and no buyer able to control prices.",
+            "sen_tran": "不能有任何卖家或买家有控制物价的能力"
+        }
+    ]
+},
+{
+    "am_phonetic": "//",
+    "tran": [
+        {
+            "n": "卖方市场"
+        }
+    ],
+    "en_phonetic": "//",
+    "word": "seller's market",
+    "example": []
+},

@@ -1,0 +1,90 @@
+{
+    "am_phonetic": "/'wɔtʃ,taʊr/",
+    "tran": [
+        {
+            "n": "瞭望塔，岗楼"
+        }
+    ],
+    "en_phonetic": "/'wɒtʃtaʊə/",
+    "word": "watchtower",
+    "example": [
+        {
+            "pic_url": "./pic/watchtower-0.jpg",
+            "pron_url": "./audio/watchtower-0.mp3",
+            "origin": "来自《银河护卫队》",
+            "sen": "we're gonna need to get into that <em>watchtower</em>.",
+            "sen_tran": "得设法进到那边的瞭望塔里"
+        }
+    ]
+},
+{
+    "am_phonetic": "/'wɑtʃwɝd/",
+    "tran": [
+        {
+            "n": "口号；标语；口令；暗号"
+        }
+    ],
+    "en_phonetic": "/'wɒtʃwɜːd/",
+    "word": "watchword",
+    "example": []
+},
+{
+    "am_phonetic": "/ˈwɔtɚ; ˈwɑtɚ/",
+    "tran": [
+        {
+            "n": "水；海水；雨水；海域，大片的水"
+        },
+        {
+            "vt": "使湿；供以水；给…浇水"
+        },
+        {
+            "vi": "加水；流泪；流口水"
+        }
+    ],
+    "en_phonetic": "/'wɔːtə/",
+    "word": "water",
+    "example": [
+        {
+            "pic_url": "./pic/water-0.jpg",
+            "pron_url": "./audio/water-0.mp3",
+            "origin": "来自《开心汉堡店 第4季 第7集》",
+            "sen": "Hotter <em>water</em>. I got to get hotter <em>water</em> on this.",
+            "sen_tran": "水要再热点 水要再热点才行"
+        },
+        {
+            "pic_url": "./pic/water-1.jpg",
+            "pron_url": "./audio/water-1.mp3",
+            "origin": "来自《废柴联盟 第2季 第22集》",
+            "sen": "Um, did you break <em>water</em>? Is that broken <em>water</em>?",
+            "sen_tran": "你的羊水是不是破了 那是不是羊水啊"
+        },
+        {
+            "pic_url": "./pic/water-2.jpg",
+            "pron_url": "./audio/water-2.mp3",
+            "origin": "来自《老友记 第1季 第23集》",
+            "sen": "<em>Water</em> breaking? What do you mean? What's that, <em>water</em> breaking?",
+            "sen_tran": "羊水破了？什么意思？ 那是什么？"
+        },
+        {
+            "pic_url": "./pic/water-3.jpg",
+            "pron_url": "./audio/water-3.mp3",
+            "origin": "来自《动物总动员》",
+            "sen": "He is gonna bring us <em>water</em> from the <em>water</em> hole!",
+            "sen_tran": "他会从水源给我们带水回来"
+        },
+        {
+            "pic_url": "./pic/water-4.jpg",
+            "pron_url": "./audio/water-4.mp3",
+            "origin": "来自《驯龙高手》",
+            "sen": "There's this <em>water</em> dragon that sprays boiling <em>water</em> at your face,And there's this other one that buries itself for like a week...",
+            "sen_tran": "上面说水龙会把沸水喷射到你脸上,还说有一种龙能把自己埋上一周"
+        },
+        {
+            "pic_url": "./pic/water-5.jpg",
+            "pron_url": "./audio/water-5.mp3",
+            "origin": "来自《耶鲁大学开放课程：生物医学工程探索 第20集》",
+            "sen": "it's soft tissue but it's also filled with <em>water</em>, a lot of <em>water</em>.",
+            "sen_tran": "它是软组织 不过却被很多液体填满"
+        }
+    ]
+},
